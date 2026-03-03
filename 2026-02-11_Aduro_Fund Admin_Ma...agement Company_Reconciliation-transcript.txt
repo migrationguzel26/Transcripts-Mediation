@@ -1,0 +1,336 @@
+00:00:00 Joe Guzel
+Um, can we, uh, can you help me, uh, out with, um, closing the loop on the model that I sent you the expenses? Uh, we never got to finish our conversation from the other week. We got cut off and I have, I was trying to get ahold of you last week, but I guess you were, you guys were probably slammed with audits.
+00:00:22 Speaker 2
+Yeah. Uh, okay. So what do you need. 
+00:00:27 Joe Guzel
+Uh, I need, um, I sent you, I sent you the model. Um, I need to just make sure that it's copacetic. I'm not the controller. I put that together as best I could. So I never got your comments on it or anything.
+00:00:51 Speaker 2
+Let me find what model is, is you're talking about.
+00:00:55 Joe Guzel
+Right.
+00:00:56 Speaker 2
+Um.
+00:01:02 Joe Guzel
+Because I'm trying to reconcile these with some math that McLean sent that's entirely different, but also, you know, purposefully so. And I'll just say that just to the email. Let me just resend it to you.
+00:01:21 Speaker 2
+Okay.
+00:01:25 Joe Guzel
+Let's see. How's the weather over there. 
+00:01:31 Speaker 2
+It's gotten a little warm, so some of the snow is melting, which is good.
+00:01:35 Joe Guzel
+Have you guys been quite literally snowed in. 
+00:01:37 Speaker 2
+I mean, it hasn't snowed in a couple of weeks. It's just been really cold, so. Got it.
+00:01:48 Speaker 3
+Let's see. This one's probably the right one. Let me shoot you this one. It just says updated expense sheet.
+00:01:58 Joe Guzel
+Throw a hammer. Um, I shot you, uh, one that says, Jay, it'll be subject line updated expense sheet slash Amex 91009, and that's, uh, and it has a Excel spreadsheet in there. Um, let me just make sure it's the right version.
+00:02:21 Speaker 3
+Uh, it's more or less, more or less. Let's see if I can get one. Just let me know whenever you got it. Okay.
+00:02:45 Joe Guzel
+And thanks for shooting over McLean's expenses from the other day. I haven't gotten a chance to pull those up yet. Have you been engaging with Frank Rimmerman on the audit? Can I get just a quick two seconds on where that's at? I obviously sent that email around the other day.
+00:03:07 Speaker 2
+Yeah, that's Mike's side of things. Oh, you do? I'm the handbook management company.
+00:03:12 Joe Guzel
+Got it. And the Manfred doesn't get audited. 
+00:03:16 Speaker 2
+It does not, no.
+00:03:17 Joe Guzel
+Gotcha, gotcha, gotcha. Okay. What about the SPV? Are you on that. 
+00:03:23 Speaker 2
+I'm not on the SPA either, and I don't believe that gets audited either.
+00:03:28 Joe Guzel
+Oh, interesting. Okay.
+00:03:31 Speaker 2
+We'll double-check that with Mike. Sounds good.
+00:03:34 Joe Guzel
+Thank you. Let me know when you got that file, if you don't mind.
+00:03:42 Speaker 2
+Yeah. It's from the West Coast, I guess.
+00:03:48 Joe Guzel
+It might be. It could have hit your spam because it comes from my Gmail.
+00:03:53 Speaker 2
+So maybe just check that. I've gotten emails from you before, though.
+00:03:57 Speaker 4
+Oh, okay.
+00:03:58 Speaker 2
+And that's it. So, but I'll check. Nope, not in the spam either. Okay. Oh, let's see. There it is.
+00:04:11 Speaker 3
+Awesome.
+00:04:12 Speaker 2
+Okay. All right, so the is the MX.
+00:04:17 Joe Guzel
+Yeah, and it's, I think it's the right version. It could be a little bit outdated. I mean, have you been on any of the emails? You've been on the emails with respect to the reconciliation stuff that we said. So I've been sending around. I mean, I've been sending the around for quite a while now.
+00:04:37 Speaker 2
+So what do we have here? So based on your spreadsheet, it looks like you're saying. From May through December, $92,630 is to be reimbursed by the fund, which some of it might have been. I think we got fund reimbursements through August. It's the last quarter from September on that we kind of stopped.
+00:05:09 Speaker 2
+Well, I think it's also because I didn't have your MX until now. Standard OPEx and CAP expenses. Expenses. 
+00:05:20 Joe Guzel
+You didn't have the MX for a couple months, right. 
+00:05:25 Speaker 2
+Okay. And then JHG Adjudicate. So the $90,983 you're saying is. 
+00:05:37 Joe Guzel
+Yeah, so what I did is I took the MX CSV draws, that's what all those green tabs are to the right of the red arrow tab that's blank, and just ran through the same treatment, but stacking obviously so many months in one file that I've done with you every single time that we've done the. And so remember, I haven't taken a management fee draw since Q3 of the last year.
+00:06:10 Joe Guzel
+I'm pretty sure those got paid out, right. 
+00:06:13 Speaker 2
+Yes, you got paid in July was the last one.
+00:06:16 Joe Guzel
+Yeah, so it's been coming up on like a year that I haven't been paid. So it wasn't until the first or second week of July that McLean and I signed our binding operating protocol. Um, and I didn't get my email access, uh, which was stolen back and reinstated until the, uh, and so that was, you know, mid-Jan. Come back in September, we were overdrawn, or we were drawn on the LOc from May fully to the tune of 5 million bucks.
+00:06:56 Joe Guzel
+Uh, I, we had issued a capital call in July after the BOP, uh, signed, I believe, to reconcile the LOC. And then we landed at 83, uh, we, we trued up everything. We were 83.6% called invested reserve with nothing drawn from the manco. And we had something like, um, like three, like six, six or $700,000, um, sitting in the LP account. And then, uh,
+00:07:27 Joe Guzel
+uh, in September, we make the budget. on what to do with half of 17%, which takes the fund to 100%. I had, and with respect to the Amexes, this account got open last summer, sometime in between the dispute when I didn't have access and when McLean illegally stole my access controls and company property for the second time at that point.
+00:07:59 Joe Guzel
+Previously, there's only been one Amex at Haven Ventures. That is the one that is under McLean's name, and I had the junior card to that. That was the reality of it until, and then that card, I believe, got canceled on his end last September, and it was sometime last August that he was... Insisting that he had access to all of my expenses, which I obviously obliged and was fine to do, but it was to create a narrative around personal expenses.
+00:08:35 Joe Guzel
+You have all the fund reimbursement models and stuff, right, that we've submitted in the past? Yeah. I'm going to loop you in on this. Because Oreck and Troutman are chatting at 2 p.m. Eastern time to reconcile these two models that I'm sending you right now. Oh, boy.
+00:09:01 Speaker 4
+What's wrong with this thing. 
+00:09:02 Speaker 3
+Sorry, Andy. One moment.
+00:09:12 Speaker 4
+Hey, hey, hey.
+00:09:13 Speaker 3
+Get this out of here. Let's see. MLS draft. I just shot it to you, it'll probably take a second, but, and then I'll shoot you this.
+00:09:41 Joe Guzel
+other email so you can kind of get the context. So, yeah, if you could, I'm going to loop you in with them, if you could just throw all those in a zip file and just kind of, like, explain how we've done this historically every single time, which is not, never on time, first off, never on time, and taking, the Amex, taking the Amex, the account Amex, and then running it through a treatment like.
+00:10:11 Joe Guzel
+this, you can attach the models, and so that they can look at that, and then. Um, it's all been copacetic. So what I did with this model that you're looking at that I just, I think just resent to you along with the draft that McLean put together is I took all of the Amex, uh, reports that I had for this account, which I guess opened May 25th, 2025, if you scroll down to row, uh, 467 and, um, and I didn't really start using this, uh, until I guess really I got back from, uh, from, uh, Europe and we signed the operating.
+00:10:46 Joe Guzel
+Binding operating protocol. Um, if you, if you, uh, I put together another analysis I can send you that shows, uh, the flow of expenses from, uh. The McLean master account between the cards, the card that he has in his possession currently, I'm assuming, and the one that he canceled that I've been using for several years, that was the junior account holder card, that always had the brunt of the OPEX and showing how the OPEX shifted from there to here.
+00:11:21 Joe Guzel
+Now, again, I haven't been paid since last year, since last summer from my own business. So when we got back and we reconciled everything, got caught up, Mike did God's work and then caught us all up on the LP. And I put the plan down to weaponize the 7%-ish of AUM to get the fund locked and solidified. That would have taken two weeks, ended up taking four months.
+00:11:55 Joe Guzel
+I, at that point... One of the other facets was getting those legal expenses and stuff reconciled. Now, for the avoidance of doubt, you didn't do anything wrong with your legal expenses. The problem with the legal expenses was the ones that he was submitting, right? And getting one of the service providers that I pay handsomely to tell me whether it was copacetic to approve them or not without negating or disqualifying clauses in the binding operating protocol.
+00:12:30 Joe Guzel
+Because they constituted, particularly with Morrison Forrester, expenses accrued prior to May 5th, which is kind of like the date, right? The dispute date, like kind of like Jan 5th or something. And then that's why I couldn't approve those expenses. And Cooley... And Fenwick and everybody I was desperately trying to deputize just wouldn't do it. So, and that's why now they've been paid.
+00:13:05 Joe Guzel
+Now, with respect to the, and then that's also why obviously management fees didn't get paid out, Q4 and Q1. Now, if you remember coming up on Q4, and I have the emails where McClain was trying to basically ding my income by some significant amount, claiming that I had all these personal expenses without me having submitted any expense reports or anything.
+00:13:41 Joe Guzel
+He was just trying to manufacture that narrative, and then he got caught in the middle of it. Now, connecting the dots going backwards, what I did here was just, Parse everything out. So you'll see on this model some things that historically we always took as fund expenses. I categorized as Joe will eat that personally or it's an operating expense because the plan that we had talked about with the duro and brainstormed was to start to taper off fund expenses operationally, like the operational ones.
+00:14:22 Joe Guzel
+I mean, there's some things on here that are the subscriptions, but usually I would always take the AI subscriptions and stuff like that as fund expenses because they qualify. And we've done that for quite some time, I think since the beginning. But I didn't categorize them as such. I'm probably going to move them back now. Let me know if you got that other email, Annie, if you don't mind. I did. Yeah, great. And then let me send you one more here. Does that all make sense?
+00:14:52 Joe Guzel
+Just please tell me if it's not. It's a lot, and I get all jumbled up talking about it so much.
+00:15:00 Speaker 2
+I think I'm following.
+00:15:03 Joe Guzel
+Okay. Like anything that's not clear. 
+00:15:12 Speaker 2
+So McLain is claiming, like, these personal expenses. He thinks that you should either reimburse the management company or consider it your management fee payment, your draw, your guaranteed payment.
+00:15:28 Joe Guzel
+Yeah, which I'm not. It's basically the same. Yeah, which I'm not. Clearly with the categorization I have here, I wasn't debating it because I have no other source of income but Haven. And so, for example, row 17, I have to pay my federal tax bill on the AmEx, right? And so, of course, I'm going to pay that. Of course, the company is not paying that. Um, and also my AmEx bill has been overdue. I made a payment on it just to keep it active. $5,700 that I paid out personally from the 45,000 that was reimbursed to me from the.
+00:16:01 Joe Guzel
+legal expense reimbursement from the BOP. We each got 45,000 as part of the BOP. I know none of you guys have read the BOP no matter how many times I tried to get you through. Um, it's like a homework assignment. And then the, uh, um, and so, and so, uh, but that was, that bill was due January 8th. I mean, I've been, I've been dealing with creditors and just like McLain's account, it's tied to me personally. And so obviously there was the coercive control with the positive pay and the ACHs that he did without my consent, which was illegal, right?
+00:16:32 Joe Guzel
+You can't do this stuff. Yeah, it has been fixed, but we're, uh, but everything will still be double trigger on that, on that account, on that account. So like, Yeah. Yeah. The ACHs, I think, yeah, that's all been fixed. What I didn't approve was, and I didn't clear yet, was the insurance payments because I need to get paid. I need to get all this other stuff reconciled. My wife and I haven't gotten paid in a year. So it's been very hard, obviously. And it's not right.
+00:17:13 Joe Guzel
+Right. And especially that I'm an owner here. And so I'm just trying to get my management fees paid. And so and this with this reconciliation. So the reconciliation shows that that he's owed something like 290 and I'm owed something like 200. Right. Now, here's what. Right. However, 100% of the cash drawn is from the LOC. So that's not capital called capital, but it can be used in the ManCo and moved from the LP to the LLC as a loan.
+00:17:58 Joe Guzel
+OK. Because because because what we don't because what we don't have is how many months of given that 90% of operating expenses expenses have always for fund reimbursements have always been on my managed card, whether that be the one that was junior to McLain's or whether that be the one that I opened myself. And you'll find that all of the amounts reconcile to a consistent to the same to the same amount that Haven has been burning since I set this with you in 2022.
+00:18:29 Joe Guzel
+Or 23. So what you're seeing is almost one year of non-reconciled fund reimbursements as well. So those need to be reconciled, obviously, because they're owed to the management company.
+00:18:49 Speaker 2
+Right. I think it's been reconciled through August is what I read.
+00:18:55 Joe Guzel
+Can we confirm that. 
+00:19:01 Speaker 4
+Okay. So reconciled through August.
+00:19:11 Speaker 3
+And I'll rip you in with proposed. Let's see, John.
+00:19:16 Joe Guzel
+Because what happened also, I had everything budgeted perfectly, so we didn't have to draw from the line of credit or do a capital call. The plan was to. Delay pulling from the LOC to consummate the investments that we strategized as far into the fall as possible because we were focused on specific investments, and that way we wouldn't have to issue a capital call until February.
+00:19:51 Joe Guzel
+And then what happened was McLain wanted to do Wheelby. That came up, and then Autolab having to pre-wire and things like that. So we had to draw from the LOC a little earlier. So when we consummated Piko, which should have closed last October when I negotiated it, just like Cast Finance should have closed last October when I negotiated it, that's when we would have had to draw from the line.
+00:20:24 Joe Guzel
+So with Piko, just the other week, we drew the entire line. So that we can reconcile not only the fund, the two quarters of fees, Q4 and Q1, which we need to reconcile. This has always been how we've done it. We've always reconciled. We've always drawn the full fee amount, reconciled fund reimbursements. And usually that happens almost always before. Because usually I get to the reconciliation of the fund expenses with you once a quarter on average, not every month like we need to.
+00:21:02 Joe Guzel
+And then McLain and I net out the gross management fees. So our AmEx is average $35,000 to $45,000 a quarter. But most operating expenses are incurred with the exception of health insurance and car notes by the management company, by the AmEx. And which are always on my card relative to McLain's. McLain hasn't authored an investment in Haven 1.
+00:21:36 Joe Guzel
+And then obviously I have more fund expenses because I have all the board seats and stuff. So there's travel. Let's see. Annie. Annie Haven. Jonathan or Steven. I'm going to look at them with Steven Fox. Michael. Jordan. And yeah. Aduro. Troutman.
+00:22:06 Joe Guzel
+Annie 2.
+00:22:07 Speaker 4
+To send an outline fund to MCO2 fund to LP Reimbursements. Process. ...historical records...
+00:22:31 Dana Settle (Greycroft)
+...let's see... ...let's find out...
+00:23:07 Dana Settle (Greycroft)
+...um... ...let's see... ...any... Thank you. Okay, awesome.
+00:23:33 Speaker 2
+I'm showing that we paid, reimbursed management company 25 AmEx. The last payment was made, August 29th, September 11th. So it's just the last four months of last year that we haven't reimbursed the management company. Through August.
+00:23:58 Joe Guzel
+2025. AmEx. And that's for the 9110 account and, 91109 and both cards. And how much was that. 
+00:24:14 Speaker 2
+How much was the August? I'm showing it was like almost $30,000, was reimbursed to the management company.
+00:24:26 Joe Guzel
+Okay. So that would be through, uh, that, that wouldn't be through August 31st, right? It would be through the 13th or something. Can we, can you help me confirm what, when that is exactly? Yeah, I think, I don't know if mine is different than his and I didn't really start using it until after August on my account. I'm just looking at the transactions. You just look at the volume of transactions and how they shift on my, on, on my end, right?
+00:24:56 Joe Guzel
+It goes from like very little to a lot. Um, cause all the expenses move to, to that, all the volume shifts. And that's why his statements, uh, have nothing because historically his statements also have nothing. I have, I have his statements versus my statements from his account too. So I can easily prove it, but you also have those in your records, which is what, you know, a Daryl is going to provide.
+00:25:24 Speaker 2
+Up to your statement's right, it's anywhere between the 13th and the 16th of the month.
+00:25:30 Joe Guzel
+Yeah, depending on when it falls.
+00:25:31 Speaker 2
+August specifically, your statement date ended August 14th, it looks like.
+00:25:37 Joe Guzel
+That's for 9, when you say my statement, that's the 9-1-0-0-9. But I had two cards, right? I had the one under his and...
+00:25:46 Speaker 2
+So the one under his, this is August 15th.
+00:25:51 Joe Guzel
+Okay. And then, so, yeah.
+00:25:54 Speaker 2
+And yes, you still have some chart order on.
+00:25:57 Joe Guzel
+I had probably quite a bit, because I, again, if you just look at the model with the Master expense tab, like you see how the OpEx shifts, but I can also, I've also compiled a more detailed report, obviously. I just stopped using that account, and his card never held the majority of the OpEx. It was always mine, but it was always his account. I never had my own account until last year.
+00:26:27 Speaker 2
+No, I know. Yeah, you had some charges on his AmEx.
+00:26:33 Joe Guzel
+Do you know what the total is. 
+00:26:35 Speaker 2
+On the August statement.
+00:26:36 Joe Guzel
+What was the total for that statement. 
+00:26:39 Speaker 2
+The total for the statement was $16,336.64.
+00:26:52 Joe Guzel
+Okay, $16,336.64. Yeah. And then, do you happen to have the July, June, and May figures. 
+00:27:09 Speaker 2
+My claims. 
+00:27:11 Joe Guzel
+Yeah, that would be really the only one.
+00:27:14 Speaker 2
+Okay, these are all the statements I already sent you, so you do it. Okay. So, July was $6,000. $3,314.71.
+00:27:23 Joe Guzel
+$3,000.
+00:27:25 Speaker 2
+$6,000.
+00:27:27 Joe Guzel
+Between both of us? What? It was only $6,000 for the consolidated. Are you talking about just McLain's card or the consolidated, his card. 
+00:27:42 Speaker 2
+Just McLain's card.
+00:27:43 Joe Guzel
+What's the consolidated? Because that's the accurate figure. Do you want his card plus your card? Yeah. Yeah, because that's, yeah. What I mean.
+00:27:54 Speaker 2
+Right.
+00:27:55 Joe Guzel
+Yeah. So it's always, when I've submitted the historical fund expenses to you, they're always consolidated with me and his because there's only been one Amex. And then the transactions associated with my name and my card are the bulk of those transactions because I do everything, obviously. The numbers don't lie.
+00:28:25 Speaker 2
+So to get back for July, it was $31,107.26.
+00:28:32 Joe Guzel
+$31,107.26. Oh, interesting.
+00:28:36 Speaker 2
+Because your card was almost $25,000.
+00:28:39 Joe Guzel
+Right. And if you net out the $31,000, so now let's go back to June, right? And then what we have had, January, February, March, April, May, June, we submitted Q1 and Q2 and Q4 expenses, I believe, at the same time. Right. Yeah. I'm looking in with Troutman here if he could send all the models that I've sent you. I have my historical Joe at Haven. Obviously, he knows, but I needed Aduro to help me out here.
+00:29:11 Joe Guzel
+I've got too many things on my plate. Let's see. So it would have been August or July. Yeah, June. This was July statements consolidated, right? This is June statement consolidated, right? And then I need May consolidated.
+00:29:33 Speaker 2
+So June was 18,777.10.
+00:29:41 Dana Settle (Greycroft)
+Okay.
+00:29:54 Joe Guzel
+How much of that was McLean. 
+00:30:08 Speaker 2
+McLean statement was 14,469.94.
+00:30:14 Joe Guzel
+Okay. That was, and that was just his charges, so he was most of the charges.
+00:30:21 Speaker 2
+You were probably still on that card, so.
+00:30:25 Joe Guzel
+Yeah, so the June consolidated, you told me 18,777. That's not the total then.
+00:30:32 Speaker 2
+Your charges was 4,440. Wait, does this make sense? No.
+00:30:41 Joe Guzel
+The top left, if you have the PDFs, it's probably the top left number is the right one. Let's see.
+00:30:58 Speaker 2
+I'm just trying to figure out how much of it is yours versus his. I don't see where.
+00:31:19 Dana Settle (Greycroft)
+No, I have to go and, like, start another meeting.
+00:31:56 Joe Guzel
+Okay. Yeah, what I need you to do is please get everything over to Troutman and just show them how we. Just explain to them how we do fund reimbursement.
+00:32:13 Speaker 2
+Do you want me to send them the spreadsheets you sent me. 
+00:32:16 Joe Guzel
+I want all of our historical fund reimbursement spreadsheets and an explanation, if you'll be so kind, briefly of just over email of how we have managed the fund reimbursement process historically, which has been a very methodical, albeit not every month, reconciliation the same way. Since you and I started doing fund reimbursements together in Q4 of 2023.
+00:32:47 Joe Guzel
+I didn't take any fund reimbursements prior. I forgot about them.
+00:32:55 Speaker 2
+I don't know if I have Troutman's email.
+00:32:57 Joe Guzel
+Yeah, I'm going to loop you in with them here in just a second. And I'm just trying to get. So the July statement was $31,000. The June statement was, I don't know, but I'll find it. I have it. And the May statement would be the same. My card opened in May and I've never submitted. The question is for the August statement that you reimbursed, was that reconciled between both the McLain master account and did that include both charges from the McLain master account and the Guzel master account and both Guzel cards?
+00:33:52 Joe Guzel
+Okay. Do you know how much of the 30, how much of the... 16, or no, sorry, it would be, I just had that number. How much did you say that was in August that got reimbursed. 
+00:34:13 Speaker 2
+That was almost $30,000.
+00:34:15 Joe Guzel
+Yeah. How much of that was associated with each account? And then how far back was...
+00:34:27 Speaker 2
+AmEx. So August AmEx, your AmEx was for $20,500, and McLain's was $9,200.
+00:34:39 Joe Guzel
+Okay. $20,500, okay, and then his was $9,200, and those were the totals for the AmExes, and then the fund reimbursement was... That was the fund reimbursements. Got it, okay. And then how much was the August AmEx for, that was $16,000 in total? The McLain master account with both cards, I believe you said, was $16,336, right. 
+00:35:11 Speaker 2
+So which month. 
+00:35:12 Joe Guzel
+August. But also, I didn't just submit August. So the question is, from the fund reimbursement that was submitted in August that includes both accounts, how far back does it go? Because I've never been – I've submitted every single one of these fund reimbursements personally and compiled every one of these spreadsheets personally that's been submitted to you. And so I'm trying to – and I know I never do it every month. The McLain took it over.
+00:35:43 Joe Guzel
+No, he didn't. He did one cut in three years. Let's be really clear about that. McClain didn't do anything. He did one cut in three years, and then I reconciled it, and then I sent it to you. Okay, I'm going to cut you off, but I have to go on this meeting. Right, right, right. But can you just let me know how far back that reimbursement submission was for?
+00:36:14 Joe Guzel
+How many months? Did it include January? Did it include December? Because we never reconcile every month on a month-to-month basis, because I never get them to you every month.
+00:36:27 Speaker 2
+I've been getting reconciliation statements from McLain since March of last year. So he submitted March, April, May, June, July, August, September. I don't know if I've seen anything past that. I might have gotten October from him, but I don't think I've seen November, December. So part of that was...
+00:36:50 Joe Guzel
+So how many months was the August fund reimbursement? How many months did it cover between both accounts? How far back did it look. 
+00:37:01 Speaker 2
+The August reimbursement was just for the August statement.
+00:37:08 Joe Guzel
+It was only for August. 
+00:37:10 Speaker 2
+Yeah.
+00:37:11 Joe Guzel
+But when was the last fund reimbursement paid out before that. 
+00:37:17 Speaker 2
+So the July statement was paid out September 3rd. The June statement was also paid out in September 3rd. The May statement was paid out June 2nd. April's was also paid June 2nd.
+00:37:37 Joe Guzel
+Reimbursed from the LP to the manco. 
+00:37:39 Speaker 2
+Yes. March and February were also reimbursed June 2nd.
+00:37:44 Joe Guzel
+So some months were reimbursed in September. So August was reimbursed in August, June and July were reimbursed in September, March was reimbursed in June. 
+00:37:58 Speaker 2
+August was reimbursed in September.
+00:38:01 Joe Guzel
+August in September, June and July in September. 
+00:38:06 Speaker 2
+July, September, and June, September, yes.
+00:38:09 Joe Guzel
+Okay, so it's one quarter per usual. And then prior to that, when was the last fund reimbursement? When was January, February, March, April, May? May.
+00:38:27 Speaker 2
+June.
+00:38:29 Joe Guzel
+Okay, all of those months were paid out in June of last year? Yes. Okay, gotcha. Do you know how much that was for? If I need a chance, I'm going to let you go. I'm sorry for keeping you. Thanks for taking the time.
+00:38:51 Dana Settle (Greycroft)
+Roughly $63,000.
+00:38:56 Joe Guzel
+Okay. And that was just the McLean master account because there wasn't a 9-1-0? So for May, April, March, and Jan, and Feb, that was just the McLean account. But May, June, July, August. So the question is, was August the only month last year where the 9-1-0-0-9 account was included in a fund reimbursement?
+00:39:28 Joe Guzel
+Yes or no is what I need to figure out.
+00:39:32 Speaker 2
+For yours, June, July, and August were included.
+00:39:35 Joe Guzel
+June, July, and August, which were paid out in September. May was not when it opened. And then obviously every month since has not been reconciled. All right. Nor has anything since September, the September statement for McLain, correct? Has anything been submitted on those. 
+00:40:04 Speaker 2
+He submitted, it looks like, September and October.
+00:40:13 Joe Guzel
+Okay.
+00:40:14 Speaker 2
+But because of your dispute, we haven't done anything.
+00:40:18 Joe Guzel
+Yeah.
+00:40:18 Speaker 2
+And he reversed this.
+00:40:19 Joe Guzel
+Totally understood. Okay, Annie, thanks for hanging in there with me. Appreciate you.
+00:40:24 Speaker 2
+Thanks. Bye.
