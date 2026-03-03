@@ -1,0 +1,356 @@
+Matt Talbot (Cast Finance)  18:17:13
+It kind of like hovers in and where is it? It's about 1% of revenue, right? The best, best in the world are at about point 7% moderate, one to one and a half. And you're kind of like a finance department is wealth management for a company at some level abstraction, right? So there's, like a terminal value there, and there's this combination of, there's a lot of layers to this, right? There's a combination of the value delivered and then, and then there's other ways to participate in value delivered, whether that's sourcing capital or otherwise. And then there's what you're talking about, which is, you've got some revenue that you're generating from a client, but the way that you, because you, the first thing you said is, actually, I think, is, could not be more important, is right on the money. Accounting firms. Think about accounting. Small business owners, think about cash flow, right? The two different things, and we can understand that the value we can bring. Think about this for a $10 million company, what that means is, usually spending $100,000 on finance. It's actually disproportionate portion. Small companies to staff finance teams. That is for big companies, because the finance team ain't going to be 100 grand in total, it's gonna be 500 grand. So you're talking about 5% of revenue going towards fine. That's why the trade decast is such a great fucking trade, right? Because it's like we can do it for 100 grand with our agent system, neither here nor there. What I really want to say where I think you're really right is that the cash flow is the thing that matters. So we can have a terminal value that we can create, we can capture that value, but the way that we capture that value and how it aligns with the customer cash flows is a vector of defensibility that it is really, really interesting, and one where, again, I can't say that.
+
+Joseph Guzel  18:18:53
+I don't have a strong opinion. I've never thought about this. I've never thought about this story.
+
+Matt Talbot (Cast Finance)  18:18:57
+But I think the possibilities there, it's based on that is based on that context engine, right? That is fully vertically integrated,
+
+Joseph Guzel  18:19:03
+yeah, but it's very powerful. It's a lot. It's I actually, I reckon it's the most simple thing that you'll have built, and the way to do it is with a mundane blockchain, which everything will have to reconcile to one anyways, with the stable point ax. That was all right, by the way, I was right about the genius act and clarity act. Like, look at that. It's like, it's the fucking pattern is the same. So, like, it's a it's so it's like being, if you built something today and it's 2009 and you're like, I'm not worried about mobile payments. Fuck that. That's not gonna, it's like, idiot, build, build, the build for the mobile payments. Dumb ass. Like, it's gonna be a thing like you, of course, you're gonna use a blockchain. Of course it's gonna stable coin is just a payments real. A stable coin issuer is somebody with money transmitted licenses. That's it. Yield is Ach, rewards, their credit interchange, same thing. Okay, so, but, and you're already built on a ledger, right? There you go. It's, it's just a mundane layer one, it's, it's, it's your guys, it
+
+Matt Talbot (Cast Finance)  18:20:01
+is into your point. I mean, the intersection where you're Australian, the money intersection, Blockchain in agent payments, is really interesting, because the number of transactions are going to go up, because I think we're gonna have a lot more of these
+
+Joseph Guzel  18:20:13
+microservices in in money, without blockchain. It turns out, no, it's the only way it clips it clips it together and and it doesn't actually go away like the way the Twilio and octane stuff did with more cloud penetration. The only, the only thing that happens is our everything is has, has that cryptography on the ledger native to it to where it's so monotonous that we don't talk about it anymore. This Exactly. It just works debit and credit, right? And so we never talk about that. So it also, though, solves your OAuth problem, right? Like, like for the blockchain component here, and stable coins actually deals with your identity, your invoicing, and that, that payment reconciliation, and on what terms model that if you have a cast coin that's that's living in the back end, that is the OAuth identity.
+
+Matt Talbot (Cast Finance)  18:21:10
+Okay, so super, super interesting, because so as I'm building this system, right?
+
+Joseph Guzel  18:21:14
+Like it, that's how it works, Matt, that's the whole thing. Trust me, I
+
+Matt Talbot (Cast Finance)  18:21:19
+know, but let me, let me give you some intel that I think you'll like, which is, okay, so as I'm building this system for ourselves, right? Like what I mentioned earlier, the most important thing for business owners, money and money out small business, right? You're just focused on cash. That's how it works. And and so the only way you get to that answer, obviously, is two very important capabilities, receivables and payables. That has to be something we own, and we should build it on stable coin infrastructure, because, just for myself, right? Again, like, we don't use, we don't use, well, we do use, as I said, we don't use our own system. That's because it's not live yet. But we use bill for our payments, and we use QBO for our invoicing and collections. And I'm like, I can rebuild that for ourselves, literally, today, right? Bill has a network effect at some level. But like ramps, Bill Pay, product bills, network effect
+
+Joseph Guzel  18:22:19
+is the same one we talked about last time. It's because of the invoicing, which is what we got to with at Intuit back in the day, with the blue dot the but, but it's, it's you said receivables, it was payables. invoices. It's just lower latency, but it's lower latency. Oh, sorry. Am I here? Am I good? Yeah, you just came back. Okay, good, good, good. It's these things are just lower. You said, bill.com right? And you said, and you said, let me make sure close some of the shit so my fucking thing doesn't die again. So, so bill.com and invoices and receivables, payables, they're all just lower latency primitives of the same reconciliation that would happen in AI with that computer vertically integrated with it, with a zero context latency, because it's all on your system. And so like, yeah, exactly, you're really talking about the same thing. So so the but a payment is always going to be a payment from first principles, meaning that it is not anything other than the risk of the clearance and settlement of said transaction. And and that consummating and being recorded. So I think like having blockchain as part of this is obviously, because it what, what is maybe not obvious is that it will solve the the OAuth Single Sign On issue for you from day one. And I think you should build with that. I think every business needs to build with single sign on day one in AI. Otherwise, I just don't understand how you have a customer, how you can own a customer relationship without it sincerely. I don't, I don't know how. Then it's just like folks using AI to service you, versus the versus you being a node, right, right? Dude. I love, I mean, I love the way that you're thinking about this. I love the fucking so. So, okay, back to brass tacks real fast, and then so that we
+
+Unknown Speaker  18:24:31
+wrap it up. Like, yeah, and I gotta wrap
+
+Joseph Guzel  18:24:33
+sorry I'm getting, by the way, everybody good. What's that? Your family's good, everybody's
+
+Unknown Speaker  18:24:39
+good, yeah, family's good, family's good. Law is good.
+
+Matt Talbot (Cast Finance)  18:24:44
+She's, yeah, she's like, doing well, right? Like, all things considered, she's doing well. A couple of kerfuffles this year, but, but nothing bad. So, like, we're happy to have her close. We, we were with her yesterday, right? So we're seeing her a lot, which is
+
+Joseph Guzel  18:24:58
+awesome, as long as she's not showing up when you're in the shower singing or something like,
+
+Matt Talbot (Cast Finance)  18:25:04
+thankfully, she we have to go to her, which is good, so that helps. But, yeah, I mean, you know, it's, it's, you know, family stuff, but Yeah, everybody's
+
+Joseph Guzel  18:25:13
+good, man, thanks for asking. I'm gonna name my son Joey Alfano, just FYI.
+
+Matt Talbot (Cast Finance)  18:25:18
+That was decided. Strong name, strong name, strong name, yeah, yeah, congratulations, man, it's gonna be awesome. You're in for a treat. It's the most magical thing that life has to
+
+Joseph Guzel  18:25:28
+offer. So at
+
+Unknown Speaker  18:25:30
+least in my experience,
+
+Joseph Guzel  18:25:31
+so far, you have kids so young. I'm not much younger than you now, and I'm having the kids. So all this going on you can only imagine, but fuck
+
+Matt Talbot (Cast Finance)  18:25:38
+all that. Well, it's good, you know, it's good. I think that, you know, as you, as you age, you tend to get a little bit more self aware, and you chill out a little bit. So, like, I think it's such a good thing for kids, because, like, I was pretty I was starting my first company, I was a little more mercurial, right? Like, you know, the wisdom of having been around the block a little bit to shepherd a new person into the world, I think is great. Grass is always greener, right? Like, as it goes, but it's perfect time, you know, and, and you'll, you'll be able to be present and more mature, right, than if you were 25 right? Like I was, you know, it's, it's tough, yeah, unlike our parents,
+
+Joseph Guzel  18:26:14
+who were much younger back, yeah. I mean, I kind of planned everything out for the most part. So it was like, you know, I'm 37 I'll be 38 this year. I had, and, you know, I took the risk on Haven. I knew that it was going to be three, four years of pain. And you know, now it's paid off. Like the just have to get past this little hump here and get my the real maturity. Yeah, you'll be fine. You'll be the real maturity was around more like, why just to kind of, like, stop diminishing myself, instead of just like, taking the bull by the horns operation. I never wanted to own a business. Man, I grew up in small business.
+
+Matt Talbot (Cast Finance)  18:26:52
+You got to see your genius zone, right? That's what life's all about. And but you're such a genius with living in the future and seeing these patterns and identifying founders early and helping them build. Like it's not running a business, though, right? Like that's not, and I think that's actually the hard part for most VCs, like the good ones, are not necessarily made to run a small business, which is what a VC is, you know, so it's all but like, you found the perfect thing, you found the perfect calling, and you're excellent at it. And then I was hoping at all about your future success,
+
+Joseph Guzel  18:27:26
+because it's like, there's certain people that just love running a business, and I know since I was a little kid, that's not the case. Yeah, you saw it up close and personal, yeah? And I never tried it. I was like, I will never do this.
+
+Matt Talbot (Cast Finance)  18:27:40
+Fuck this. No, you found the right thing, you know, you found a way to exercise entrepreneurial energy, but be in the right zone of genius for yourself, which is perfect. I mean, it's rare to find, yeah, oh yeah. You're definitely a creative you need to be in that realm where you can be associative and meeting interesting people and wrapping your
+
+Joseph Guzel  18:27:58
+head around UConn, interesting people. Now it's more meeting like, instead of reacting right, it's it's like you would have been the like you're the only relationship in the portfolio this time as well that wasn't predicated off, like an earlier relationship, I guess, with the exception of coin together and stuff like that. But like this time in infrastructure land, I knew everybody for a long time, and they came around to the season of their life. This time is going to be a lot of new faces because of the nature of where we're at in the cycle. It's going to be a lot, and I'm not going to have like, six months get to know you. It's going to be younger people, which are annoying, all that kind of shit, and there'll be more shots on goal, and everything will be wrong. One thing will be right this time. I'm right on cast, I'm right on Homs, I'm right on, I'm right on, like, almost everything, which is rare. So going back to just to wrap this up before our wives kill us, what is forget about when you need to raise and stuff like that. But what is like, the reality of how, if you're not going to go buy more firms, what, how do you manage the upper 90 thing? And what does that look like?
+
+Matt Talbot (Cast Finance)  18:29:11
+I think it's fine. I mean, I still think deal, yeah, I think we should potentially still do to a deal with fin clarity. I think clarity. I think we need to put a pin in that, because that's a longer conversation. But we should talk about it tomorrow or Wednesday, because they do have some timing stuff with that. But overnight is fine. I'm not worried about them. Upper 90. I think would be more interesting.
+
+Joseph Guzel  18:29:28
+How what's up? Well, it's more like we have, we have the step that we took out, yeah, and that's fine. Like, they only like us if we're buying more things. We don't necessarily want to buy a bunch more things. Maybe want to buy one or two more things.
+
+Matt Talbot (Cast Finance)  18:29:44
+Bill loved the organic strategy, like, because he was in the board meeting, he's like, I agree these connections were way too fucking expensive. He's like, he could just like, I think everyone is kind of like, why are all they could? They're all trading at 2x like, it's just 2x revenue, eight times earnings for like, a $2 million business. It's a lot for so I think he was like, hell yeah, today. That's why I do think Bill's like, hey, if we could, like, be a preferred partner for all of your do any of your customers need debt? Right? Like, there's a lot there. From a BD perspective, I think upper 90 be really interested to dig into. Because, again, bills, like, they had another accounting roll up. They just exited it. And he's like, was fine. He's like, you know, they sold it kind of quick. He's like, it wasn't what you're doing. There's no technology. He said, with you guys, what we it's that that data that you and I know is so incredibly valuable, if they could tap into that and lend against that, right? If you
+
+Joseph Guzel  18:30:37
+touches, if rgl is the reconciliation engine to their OPEX and their cash constraint, and there's a one to one symbiotic relationship with it as across an amount of customers, an infinite amount of customers within any one customer, it's like a motherfucking cloud, basically the same shit. Do you have some internet using internet? It's, we're, like,
+
+Matt Talbot (Cast Finance)  18:31:02
+the internet, financial infrastructure, credit, specifically it is, and it's specifically around. Here's the accounting information, right? Yeah, and a little bit of the tax over the forecasting. But really, just like, give me the fucking bucks, yeah. And the fact that there's not a standard there is our opportunity. And it's
+
+Joseph Guzel  18:31:18
+crazy, then Bill's only problem becomes finding more LPs to issue more debt, because there's he doesn't need to underwrite anything.
+
+Matt Talbot (Cast Finance)  18:31:27
+Yes, and what, exactly, and what I see is that there's gonna be a bunch of these interesting use cases around financial visibility that I think gives us network effect and to go to market, which stuff like lenders, right? That's really good example. Another one is like, I had this prospect that I've kind of like, let die just because we're like, we this was like, last year, and I was like, wasn't even close to ready, but it did influence my thinking a little bit. We talked about it. I think there's this franchise called homevestors, right? And they help you do home flipping businesses. I have a friend who signed up for cast in the fall, and he has one business called direct landscape supply, big landscaping Supply Company, and then he's got a homevestors franchise. And what he was telling me is that there's 1000 home investors franchises. They all use different accounting providers. They all outsource, and they all use different ones. And he goes, but here's the problem, the guys up at corporate want our accounting information because it helps them. Solution, ie, maybe lend you more money or call your capital anything. And so I met with the guys at homevestors corporate, and basically their question. We had a long conversation, but I will simplify their question, which was, can you get all of our franchisee accounting data into force.com right into their Salesforce data warehouse. And I was like, not right now, but absolutely yes. And that's an example where that's 1000 nodes just from homevestors. And if we come in and go, Hey, every one of these franchisees is hiring a different accounting services firm, half of them are getting the books done six months after the fact. Half of them are coding. Are coding shit incorrectly. You can't make sense of it, by the way, they're probably maybe most of them are in QBO. We don't even know if they're all in fucking QBO. Guess what? The franchisees don't give a fuck what system they're in, because they're not doing any of the work. It's the accountant doing the work. We can now give you financial infrastructure that plugs in it will deliver the same work product to your franchisees. In fact, they're going to get 10x better books. So better books with better service, right? And mostly because they can just go to the AI and get a bunch of questions answered without fucking calling an accountant. But we'll have great people on staff when they need help, right? And we can take that data in real time to your point earlier, zero latency, and aggregate it. And then you can take do whatever the fuck you want
+
+Joseph Guzel  18:33:35
+with it, right like now, it works. The reason why this will work, and I think the only reason why and why other people that try it won't work, is because you're going to be using the product to run cast. Cast, as a business, is the product that gets delivered to everybody else, and that's the only way that shit works. I think, in the new world, when you're actually trying to deliver a product experience, you have to be the computer. And so your computer is it. And so if you're trying to develop and deliver and then run on it's so fucking cool that you guys are doing
+
+Matt Talbot (Cast Finance)  18:34:15
+this second thing. So I wanted to say something you said, Eric, it just reminded me, which is what Larry you on like, you have to have the real data. It has to be now, I know there's only valuable if, and I know it like really, really well, because when we started this whole computer vision model at our last company, there isn't that we have this really big competitor tracks, or is a billion dollars from Softbank, Gospa just acquired that, right? So, like, we want fucking awesome, yeah, now I don't know any of it anymore, so maybe I should have held on, but we figured out the computer vision problem. And here's what the guys were the other guys were trying to do synthetic data combined with 3d modeling. So they had a studio, and they would take these products, and they would set them on there, and they would rotate them around, and they would take all these pictures. And what do you think happens with that? Number one? Number one, it's almost like, Do you know how CBG works? That's what I wanted to ask. Because I'm like, if you walk into any store, a quarter of the products in there are stuff from 25 miles around. Yeah, you can even fucking buy it wherever you're doing that training, right? Number two, these guys change their labels whenever the fuck they want, for whatever fucking reason they want. And guess what? They do special issue labels where they slap a fucking NCAA March Madness print over it, and guess what? Now your stupid fucking perfect little environment where you tried to configure the perfect test set doesn't fucking work. So what we said is just take the real pictures and then we custom built a training system and sent it to Nepal. It started with Sam's college buddies and then sent it to Nepal. And we just did empirically every day, when our reps were taking pictures out in the market, we would process in real time within 48 hours through the system and end. And what that created was this takeoff and accuracy. And we really quickly came up with these rules of thumb. So we're like, once we see it 30 times, we'll be at 99% accuracy, right? Yeah. So we knew that there were these very real patterns, and not in the lab, but in the field where the work was
+
+Joseph Guzel  18:36:09
+actually happening. Yeah, it was valuable, because the field data, right? Nothing about, nothing about the thing the can. In that example, Google has that can, everyone's got that can exactly. Google has that can. They have all the iterations of the can, therefore no value the field data you only have,
+
+Speaker 1  18:36:30
+yes, correct, exactly, and that's the
+
+Joseph Guzel  18:36:33
+accounting field data doesn't make anything more valuable other than the field data portion of
+
+Matt Talbot (Cast Finance)  18:36:38
+that, yes, correct? And you have to have these like systems that orchestrate, like, the actual data, like the product info from the supplier, right? Like, there's, it's hard, but you nailed it.
+
+Joseph Guzel  18:36:47
+That's exactly the difference is worth one Asian dude gets a job at meta for like, $40 billion and that's the whole market.
+
+Matt Talbot (Cast Finance)  18:36:53
+He was the whole scam. That is it. That is it, because it's the same thing we saw in CPG. It's like, oh, the hard part is actually that, like some people, you know, this in the cold case, put stickers on the front of the cold case and you can you have to open up the door. Now, you can't stand far enough away if you have to open the door, right? So how do you take a picture? Oh, you actually need a way to stitch like you only get there if you're with a rep in the field. If you're not, you're having these very esoteric conversations with static data. I actually that is, it's so important, and I think that it's getting I think a lot of people are overlooking it, anything merch in these like last 10 feet platforms get it. But I think that, like, that's the value of having this accounting firm. We have 150 plus real SMB, day to day, week to week, month to month, to month financial workflows with real financial institutions, with real accounting behind it,
+
+Joseph Guzel  18:37:41
+the rep and the dads, the revenue the field is, I think, of literally our rep in the field, which is your very blonde, handsome, ex football player, guy, NFL guy, yeah, like, like, in a world where you're The product that you sell, quite literally, right? You just have to win on handsome blonde guy, yeah, yeah, and, and I like our odds with with handsome bond guy servicing the accounting firms and handsome engineer guy and all the other handsome cherry blossom boys, right? So, it's it, that's it. And then, and then, yeah, I think I'm right about the payments thing. I think I'm truly right about the payments thing, because it's, it's super cannot. You cannot attrit, because what will happen is, if you nail that, you start building and making decisions on the rest of your business decisions in your life. It's not about us cross selling more stuff, necessarily. It's really like, how much, how many things describe cross sell?
+
+Matt Talbot (Cast Finance)  18:38:44
+Like, maybe Atlas. They don't do their core thing.
+
+Joseph Guzel  18:38:47
+Well, yeah, just do the core Yeah. They don't even really have to worry about it. It's about, it's about how you formulate your business around that API that's powerful and so and so every decision that the business, we will control the flow of their PNL, because they will be locked into us. And these businesses have never actually been locked into anything before. They've never actually had a lock in like that. They've made a decision, yeah, right. They haven't made a choice based on anything other than convenience relative to yada yada yada. If the deal is too good, but they could a trip. They could go through the pain. This is like it would be like ripping out your payback at scale. And you can do it without even asking for permission. They'll thank you for it.
+
+Matt Talbot (Cast Finance)  18:39:32
+Yep, correct, correct, and, and, and it just, it's such a customer positive message to your point, we get them to thank us. Because really, at the end of the day, like we've been talking about, everything that we do is an abstraction, up to cash flow, right? Like, that's what these businesses are ultimately trying to do, is how do we best deploy and utilize our cash to create something of value
+
+Joseph Guzel  18:39:51
+for me as the owner, think about SM you said accounting firms. Think about accounting SMBs. Think about their cash flows. Actually, it sounds like Helen and Joseph, you spend a lot of fucking time thinking about their customers cash flows that they get to charge them for an
+
+Matt Talbot (Cast Finance)  18:40:07
+annual contract. Yeah, and that's the other thing. So I didn't even get me started on this. Cultural things are very, very hard in this market. They take the customer's financial stress as their own right, which is fine, it is. And all of that can be solved with a system like this, which is, we're more aware of your cash than you are, and therefore we're just going to proactively move the way that we get paid to better match what you're experiencing right now. Because, I mean, a lot of these companies as you know, like, when you're between one and 20 million in revenue. Stuff isn't super predictable, right? You have a bad month. You have a bad quarter. Stuff changes. And if it if, if our system is responding to that in smart ways, in real time, that's the AI. That's it,
+
+Joseph Guzel  18:40:49
+yes, exactly, into that. You can have the full stack thingy Exactly. Or you can pay your $20 a month, right? Or whatever the hell it is, and you can have your max plan, basically, where it's like you are, you're on our fucking system, on our cloud, like, and the way that you start building when you're on, when they flip to that is it's Markdown file going down. It's like everybody's getting a the integration, yeah, the integration and onboarding for everybody, why it's really interesting for us, and why it can be so pleasant, is the Chrome browser thing, right? Where it's like taking the existing behavior and everything that we know and then annotating markdown for the edge cases and as they pop up over a close period, over one quarter, it will always take one quarter worth of reconciliation and closing, whatever that looks like. But then, with your 75 transaction metric and the other ones like it, you can then actually, over time, very quickly, actually, then solve for every edge case that, like, I used to have to go acquire companies for, right?
+
+Matt Talbot (Cast Finance)  18:42:02
+It'll, it'll all be this, right on the note, you hit it, you could not have hit it. Like, literally, the architecture, more like, it's so, like, we have all this, like, cool shit. This is, like, my, I built all this. Right? So, like, this is all, you
+
+Joseph Guzel  18:42:19
+know, whatever this is fucking
+
+Matt Talbot (Cast Finance)  18:42:23
+so what you can look here, I'm going to show you this, because I think you'll get this. Let me go, actually go to a different one, this one. So, okay, so this is me. This is what the AI has told me I need to review, because it's not confident in it. So I was like, Hey, see all these deposits from Intuit. Like, just mark all those. And it's like, oh, these. And I can go, yeah, and I can filter the page based on what the agent's telling me, so I can see what it's referencing more easily. So like, okay, highlight those transactions. Okay, gotcha. And it's like, yeah, let's go ahead and mark all those as reviewed. And it's like, Yeah, you sure you want to do that? I'm like, Yep, I do. And it's like, great. Mark dollars reviewed. I was like, Oh, also make sure you save that learning, because I don't want to have to, like, talk about this again, right? So this then goes and it writes it into the company context. Like, don't worry about the design right now. Like, it's these are all AI generated. Yeah, it's not bad. Actually, make more of, like, Wiki Content. Like, I'll show you the design, but I'm just doing this on the fly. This is these are all AI generated notes that our system is writing back to company context as it's learning about things within our system. And so to your point on onboarding, what's gonna be fascinating for us is so I have this whole like, there's all this information here around, like, the different kind of components we need to know about to feed our system, right? So you got your like facts. I mean, this is all a pretty lame right now, your accounting policies, your vendor notes, your revenue recognition policies, your transactions. But you want, you want, everything you can possibly capture, I think in that onboarding process, like it goes to that saying, because you know how this works, every time you add to the context, the performance of the system goes up. Yeah. So how much are we going to be able to do, smart and beautifully, elegantly at the onboarding? I think we're actually going to be really surprised at how much we can do and how much we can seed the system with to start, and then every month it compounds right to your point. You have to get through, you have to go through cycles, right? So, like,
+
+Joseph Guzel  18:44:16
+but you're Matt as as, so, so, so do everything you're doing here, but just flip your mental model in your head alone, just just in yours where a marked the Markdown file isn't actually in the annotations, what they're actually doing is saying what not to do, right? So everything, so everything that's a primitive that doesn't change, like Matt's email is this. Matt's last name spelled like this, Matthew, then Matt, cast with a C, then an F in the space, and they're not one word, anything that's like, that is what? And then the current contract at the time, or whatever would be, what is knowledge, right? Yeah, or Yeah. And then the the combination of and knowledge only becomes knowledge when this when the annotation happens, where it's when you're adding to the markdown. It's what isn't Yeah, the thing, it's when it makes a mistake, right? Yeah, it's or exactly, it's like, no, you have to think about it like this within the context of this. And so that's like, A, ah, I got to do this differently. It's that iteration, yes. And then actually, the whole thing is a running list of what not to do instead of what to do, which is what we how we used
+
+Speaker 1  18:45:36
+to make software, yeah, I know it's, it is the whole like, mental model
+
+Joseph Guzel  18:45:39
+is, but you, but you did it already here, you know it's
+
+Matt Talbot (Cast Finance)  18:45:44
+into your point. And so, like, when I go in and change an assignment, right?
+
+Joseph Guzel  18:45:48
+Like, then you put the onus, then you're then you don't build within the computer, right? Because if it's like, oh, then it improves the more of these you do. It's like, actually, hopefully I never have to do
+
+Matt Talbot (Cast Finance)  18:45:59
+this again. Do this again. Exactly. That's the whole thing. Is anything that I touch needs to be captured and stored as a piece of context about that transaction or that economic activity.
+
+Joseph Guzel  18:46:11
+Excuse me, an invoice market. Again, you shouldn't have to go through the motions of Mark, of creating knowledge. It should attract. If it's not naturally, then that means you're not logging what's
+
+Matt Talbot (Cast Finance)  18:46:22
+wrong in the markdown. Yeah, exactly so, and the whole system is actually, what you're hitting on is actually something really interesting that we've discovered as well, which is, you know, it's all about, like, there's just layers to it, right? So you have the agents process a handful of things, and I had this, like, AI account review agent that then is, I mean, it gets checked a bunch of ways, but this is another check. And so what this one does is it goes basically the end of a period, and it scans. You can run it manually as well. So, so this everything is triggered by this dynamic close list, right? We're running all these processes in parallel all the time. Anytime we we can verify with the reconciliation, we will go in and reconcile automatically to a bank statement. This is our actual Chase, October 2025, bank statement, so it extracts all that information and reconciles it right now, I like uploaded this, but it actually just get grabbed from from the plaid as soon as it's available. And so that feeds this closed checklist. This closed checklist is kind of continuous measure. This AI review is doing like a review of the AI, right? And so what it's tracking in here, in every touch, it'll show you it's kind of logic and how it produced what it produced. It's like, anytime there's a manual override, it's capturing that, storing that with what is effectively the classification agent, saying this was a wrong assignment, this was the correct assignment. And so they're like layers to like, what, like, kind of, what, how we think about the markdown files and the company contacts versus the sub agents. It's a lot to record at around. And I'm like, I'm clearly not there yet. But I think that's a really good point. Is that you're really looking for
+
+Joseph Guzel  18:47:56
+the it's, it's, what not. It's what do you not do if you're if so, if you put your mindset in, if you're Helen, and you sign up a customer, and let's say Joseph be even more, which he's like the integrator, I imagine, right? Yeah, so like, there in his head, there is a framework, just like for me when I do a seed investment, and then it's like, day one, you can look like matte, or you can look like Tiger e, where they're kind of the same risk, but different flavors, and then you apply it's so that base canvas, and defining that base Canvas is the product spec that everything needs to start with. So getting that right, right is getting the principal, when you talk about the principal employees and yada yada, getting that Canvas Correct. That is, that has to be the repeatable thing for the base. And then the markdowns or adaptations are, well, this, you know, is why this person's not like the average. And you start tracking from the average, the average, the average, the average, the average, and then that is, that is. And then if you reinforce that with the payment
+
+Matt Talbot (Cast Finance)  18:49:04
+piece, that's when it fucking then you have, like, an individualized center, sorry, I'm coming. I'm coming. I'm sorry, sorry, Joseph, sorry, yeah, that's exactly each unit is a self optimized, scalable, defensible, compounding value unit. And like, what we were talking about the other day, and I really do have to go but like, Joey was drawing the parallel between, you know, obviously, you know, skills in Claude and the markdown files. So you have your, like, global Claude skills, and then you have your project specific, right? And so that's like, basically our model where they're like, we have, obviously, like, our cast infrastructure, but then really, like, the more important thing is actually each node and how quickly each node gets to optimized. And that's actually an easy problem. Well, it's not an easy problem, but it's a it's very tractable problem to solve, like we've seen it with our own data, right? Where you can actually go like this, like, surprisingly quick, but you end up with this lattice work of, to your point, like, another one, other one another, and it kind of leads to this really
+
+Joseph Guzel  18:49:59
+interesting memory model. It's very hard to compete. Memory is a derivative of preference, right? And so the account settings are actually preferences, whereas the project folders are instructions. Yes, exactly. So putting in the preferences, so actually it's a head fake again, because if you put in all the shit that's real about your life, like the primitives, into the preferences, you won't get the same output that has to go into the instructions right there. Like and how they coincide becomes memory, basically
+
+Speaker 1  18:50:31
+exactly. That's That's 100 that's 100%
+
+Joseph Guzel  18:50:35
+you have to go, you have to go real let's talk again tomorrow, but real quick. So like, what, um, what I think we can do at Haven is a minimum of 600k I think I can go up to one. I think I haven't run all the numbers yet or anything, but I think I have enough to like sincerely, and if it's going into operating capital, like, we should try to do that. Because, why not? Like, obviously, right, if it lands at 750, K, whatever. But, like, I actually, actually do think we have a million bucks that we and I think we should do a million bucks and just structure it so that you just get the wire of a million bucks and then and do a smaller round. Matt, like, so don't, don't have, have those folks convert. I haven't looked at the docs yet or whatever, but like, I'm not even talking about that less dilution on total amount of capital coming in at a conversion, right? Yeah, because we
+
+Matt Talbot (Cast Finance)  18:51:36
+were only going to take the last money. It was gonna be the 600k on this round, and the round was gonna be done, and we had another 300k allocated for granted Walker, so we can go up to a million. And I would love that. I think we need the cash get this closed, and then we go out and raise whenever in the summer, and we figure out what we want to raise, how much from who, you know, but that's gonna have to be a fast follow. But yeah, I agree with this. Like the only money coming in on this vehicle right now is Haven. Everything else is converting, right? The only new capital coming in just Haven. You guys are leading the pricing it, like, that's it.
+
+Joseph Guzel  18:52:06
+And the money before last year, like that 600k if you're, if you put yourself in my position, it's like, of course, I'm going to give it to you. But also, like, it's, it's brutal from, from my person, not having a big fund perspective, let alone everything else that was going on, just because, like, it's like, I need to be able to give Matt like five because, like, it he needs to, like, get out of this fucking thing so he
+
+Speaker 1  18:52:31
+can go, what's that you froze for like, half a second.
+
+Joseph Guzel  18:52:36
+I said, I need to be able to give Matt like five for, like, where he's at, right? Like, I is what was always going through my head, just to, like, get you out of this like, cycle of, like, I don't have money, but I can't raise yet, and I'm not ready. It's like, the worst place to be that's all equity capital like, so it's like, why can't it be one like, like, I'm not gonna go throwing out numbers or whatever. But, like, but, but just like, one, a fresh on a smaller, round construct of conversion where, like, the numbers still make sense for Haven, where it's not, like, suddenly I have 13% like, don't give me any of that shit. Like, it's just like, No. And give everybody markups and then make it a smaller it doesn't look good if I'm leading a $6 million fucking round anyways, right now, not that I really give a shit, but like,
+
+Speaker 1  18:53:27
+yeah, and I'm seeing you guys with what I'm modeling. And we can, we can get time tomorrow, like 22.3% so I think you're gonna end up with really
+
+Joseph Guzel  18:53:37
+strong ownership, whatever, what? Yeah, I have good ownership, whatever, whatever. I need to get you out of this rut. Like you can't, and it's not like it would be a million and you're just burning if you can pull in 2 million, which I think you can, if the, if the constructs are, say, 30 post, like, that's, that's clean, like, people will, like, like, the three on 30 converting with everything else, or something like that. It's, it's a, it's a digestible sitting here as, like, a capital allocator. It's like, oh, that's, this is. Look at how digestible This is. Look at him talking about clot CO and markdown files. Like he's not talking about buying a bunch of shitty accounting firms and trying to go run them from Denver when they're in Atlanta. Yeah, it's much more legible, yeah, and so, and then give everybody else a markup, like you have to give, you have to give all those people a markup. Yeah, they deserve a markup. I deserve a markup, but they deserve a markup. And that, that's, that's you get that from the 15 post, and then you just, it ends up being net lower dilution, or you could even, or you could even, sincerely, depending on where Haven lands with the fully diluted ownership. And is jack up the option pool a little bit and then spiff your guys's spiff yourselves, you and Joey out on the post money from the available option pool. Every passage, 300k difference, right? So I'd say it was 900k even though it's a weird number, I would rather be a million and spiff You guys are so top yourself up so that it's the least dilutive for you, which is what I've always been fucking preaching, even when he thought I was a criminal in New York.
+
+Matt Talbot (Cast Finance)  18:55:20
+Well, I never doubted here, I never doubted back, killed who I thought you were heading for court. That's what I was led to believe.
+
+Joseph Guzel  18:55:32
+That's way too much work for him. Are you nuts?
+
+Matt Talbot (Cast Finance)  18:55:34
+I see it now. I mean, yeah, I mean, yeah, I don't think he does. I literally don't think he does anything, no. And I mean, not, not together, because I really got to jump. But like, when, every time I have talked to him, he's picking up a Pakistani
+
+Joseph Guzel  18:55:46
+chicken or something, and I'm like, he loves chicken, he loves food.
+
+Matt Talbot (Cast Finance)  18:55:49
+He loves Yeah, you're always accurate to call you. Well, let's actually maybe, let's actually maybe, let's just pick a time really quick. I'll send an invite so we can hammer through the round details tomorrow. Tomorrow's honestly tough for me. I've got so many fucking meetings, but I could do like, I could do later in the day. I could like, if 430 mountain
+
+Joseph Guzel  18:56:15
+I could do, I could do 430 mountain, it'd be better for me to do Wednesday morning and then have something, and then owe you something, send you a deliverable by tomorrow, like five.
+
+Matt Talbot (Cast Finance)  18:56:26
+Okay, I'll send time. Then When's good for you? Your time?
+
+Joseph Guzel  18:56:30
+Like 10. I could do, I could, I could, pretty much do three. I could do three to five Pacific. But on Wednesday, oh, sorry, on Wednesday, I'm open all day.
+
+Matt Talbot (Cast Finance)  18:56:41
+Okay, let's do like, how about like 1030 to 1130 mountain. Would that work? Yep, that works. Okay, I'll send, I'll send an invite. I'm gonna send you a few things to
+
+Joseph Guzel  18:56:52
+review the US for the board, deck, yeah.
+
+Speaker 1  18:56:57
+Table, I'll send you the loom with the cap
+
+Joseph Guzel  18:56:59
+table, any, yeah, anything, anything that I need, Data Wise, that I can process. And then I'll all my deliverable will be get you, like, a construct of of a million, right? And then we'll use your docs that you sent me the other the other day.
+
+Matt Talbot (Cast Finance)  18:57:17
+And then yeah, and we can walk through the docs. I don't think there's anything. Basically the seed to just copied for the seed four or five.
+
+Joseph Guzel  18:57:25
+I don't really give a shit. I just want to get you set up, dude, and get you out of this fucking nightmare. I'm sorry.
+
+Matt Talbot (Cast Finance)  18:57:31
+No, no, no, we're gonna get there. I know we're gonna get there. It's all good. I mean, like, I appreciate you sharing what you were going through, because that's really meaningful for me too. Because, like, I do have a lot of, like, you have a very close relationship, right? And I have a lot of trust in you, and I have a lot of I really like working with you on this big picture stuff. It's really meaningful for me as a founder. There's not many people that can play at that level, right? So it's all good, and I appreciate being open about that, because I do think it's, you know, like, I again, like, I'm like, I got a 30,000 foot view, right? Not in the details, but I've seen now this pattern of behavior that's emerged from the claim.
+
+Joseph Guzel  18:58:09
+And again, like, I'm sorry, I let this happen.
+
+Matt Talbot (Cast Finance)  18:58:11
+I'm sorry, let this happen. Listen, you can't predict it. You know what? I mean, like, at the end of the day, I was, you take a risk on people.
+
+Joseph Guzel  18:58:17
+I was weak. I left this, I allowed this into my life, and it impacted yours, and I can't let it, I won't let it kill you. No, I
+
+Matt Talbot (Cast Finance)  18:58:28
+know, and I know it won't kill us and onward and upward. I mean, like, listen, we got a fucking killer business to build the you and I are both really excited about. So like, let's focus on that. You know, it's all behind us at this point, like, let's just get this to the finish line. And I think, you know, McLean's gonna fuck himself over like this. I don't think you're weak. I don't think you're right. I think that I was weak. It's the people. Stuff is the hardest stuff. Everything else is easy.
+
+Joseph Guzel  18:58:55
+I'm not I don't pretend like I was the best at that ever, but I was weak. That's why this happened. Let's be fucking really clear about that. Me was the problem was, it's nothing anyone did or whatever. I was fundamentally weak in my soul. I allowed the shit to fucking invest everything else would have happened just fine for us, but so, so it's not you or him or whatever I allowed this spirit.
+
+Matt Talbot (Cast Finance)  18:59:22
+Well, I think it's a great attitude to have. I think you always want to have ownership over, yeah, situation. But I do think, like, listen, in my experience, like they're just, there's some, N of people. I think it's quite small, but the you know, there is, there are people out there that are really good at coming across one way. They're just super manipulators, right? And actually having other intense you always, you always knew that the company, right, we'd have 20% of people that are disengaged, but probably only 10% of that group is actually, like, maliciously disengaged, right? But they're just always going to exist, right? Like, it
+
+Joseph Guzel  18:59:53
+just sucks, just when you have this, like, at your company, like, when you're because I don't know this
+
+Matt Talbot (Cast Finance)  18:59:57
+stuff, coach, not, not, not, like, yeah, you always have that. Like, you just even it, no matter how good you are, your hit rates never gonna be perfect. And it all the ones that are wrong. There's gonna be a subset of that that are very wrong, right and actually have perverse incentives and are wanting to bring you down. And it's in my having done this, having hired a lot of people, haven't partnered with a lot of people, I've never found a way to accurately predict that, other than just trusting your gut and you trusted your gut on the decision to bring McLean in, and it turned out that he wasn't who he who he presented himself to be, and that's on McLean, right? So it is what it is. Now it's all about you getting out of this and getting to the right spot and not letting him damage you anymore, right? Or damage your reputation or your ability and mine too, right? Exactly. You and I are actually very much in the same boat right now,
+
+Joseph Guzel  19:00:48
+because that's why I have to want to protect that's why I need to up the check for you. Given the context of this situation, I have to even if it means cutting my management fees by a year out with the 10 years I have to do it. I have other investments I need to consummate. I got to do Tiger, I got to do superconnect, or whatever. They're in a very different position than you're the second largest concentrated check in the portfolio. It's not good money after bad right? And it I have to right size, everything. So you have to look like you were able to take control as the CEO of the entire situation. Despite I didn't, it should look like I did nothing, and you came in and were able to handle everything www for Talbot, right where, even if we lose a little bit of control or something, I know that it's in, it's in service to you, having control of your board and and of all those stakeholders, so that it all that matters Is Matt had it fucking locked. Forget Haven and McLean's and the Joe's and the whatever. Right? Matt got more money than was expected. It's equity capital. He got it. He got more peace of mind with respect to how the corporate structure is, is, is there? He did it on the right terms. It was a better deal construct, on a better plan, right? And he got that across the finish line despite everything. All hail Matt, so that that's what it has to be here, just so that I'm fucking super clear, right?
+
+Matt Talbot (Cast Finance)  19:02:32
+Okay, well, I can't agree more, and I appreciate you having that awareness, because I think it is all about keeping
+
+Joseph Guzel  19:02:38
+them mentally I'm fucking rid of what I do if you if you don't, yeah,
+
+Matt Talbot (Cast Finance)  19:02:43
+this is where you're very, very, very good, right? Maybe the best I've ever worked with. And this is just why
+
+Joseph Guzel  19:02:52
+the whole thing is a bummer.
+
+Matt Talbot (Cast Finance)  19:02:55
+Is it? This whole thing guy, we just McLean, is playing with himself in his head,
+
+Joseph Guzel  19:02:59
+from what I can tell, I mean, so like, you know, fucking that guy, it's more, it was just energy. And so, like, Fuck his energy. But like, this is, if you don't have this appearance, and you start to let the they all turn into McLean's, because they're all insecure, right? And so my like, my position becomes like, just like, on an arms, if you're successful, my job becomes like, how do I protect you from the rest of the board? This is kind of that prematurely, like you have to have more control of the governance you Yeah, yeah. Whether that looks like word structure or whatever. Whether that looks like whatever, we have to get creative with. You have to protect yourself, not just from me, but from the rest of them, in a way, because they're all and solidify your like fiefdom here and you delivered the W you give them peace of mind, not anybody else. You have all kinds of very gnarly stakeholders. Joe can look like the amateur it, because at the end of the day, Matt will be like, like, like, but No, Joe was good, because over time, that gets fixed.
+
+Matt Talbot (Cast Finance)  19:04:12
+I don't, well, that's the thing like, I don't. I think that your reputation will remain intact here, because it's, I mean, it's not, it's, that's what I mean, like, McLean will hang himself, right? And I talked to, I talked to Kate today from Hannah gray. And I was like, Joe's back, and he's got access, and we're talking again. And she was like, great, I hope you guys can get it done this week, or whatever. You know? I'm like, Yeah, we're moving quick. I'm like, I'm not worried about it at this point all the markup. And, yeah, exactly. So I think, like, I've been trying to, you know, kind of manage a little bit of this too, because, like I said, that whole fire drill from McLean, really, you know, damaged some of the relationships. And, you know, just for me, right? It blows it. What he ended up doing did go back on me. And so I appreciate that awareness. I do agree. I think, I hope, make everything right, put us in a spot where we go deliver because, like, that's at the end of the day, I just want
+
+Joseph Guzel  19:05:01
+to go make a bunch of money, right? But you have to get your your you have to get the trust back. And the only way that it looks that that works is you. It has to look like an unequivocal Matt dunking victory on all of us. So like, let's solve what backwards. It's like, what we need is just protection and and, and we need, you know, all the mechanics and stuff to be right. What you need is as much money as you can get. So it's you. I even managed to fill the 300k hole kind of thing. Yeah, yeah. So, so, because what all they've seen is you in a place of desperation. We cannot have that. And so it has. It has to be that you, you manufacture this and we, you give them everything at once when we have a package. So by Wednesday afternoon, that's what you're presenting. And we're not, we're not out here soliciting stuff to my former partner and shit. We're getting the stuff done that we said we were going to get done, and it's just getting done within the nature of my Separation Agreement. You're fine. Yeah, exactly. You're number one on your list for things that I'm supposed to get done suddenly, right? And so do not worry about anything other, do not because, because do not worry about anything on my end,
+
+Matt Talbot (Cast Finance)  19:06:18
+other once, once, that would be great. I mean, my dream would be just, can we just work with this without getting interrupted by somebody in this process, and just close it, because everything he's done is caused damage and pain and unnecessary
+
+Joseph Guzel  19:06:34
+strife and waste people along on the journey. Here it needs to be you informed the board of the thing you pulled off. Yes.
+
+Speaker 1  19:06:41
+That would be my best case. That's what I want to call Yes,
+
+Joseph Guzel  19:06:45
+exactly. That's
+
+Matt Talbot (Cast Finance)  19:06:48
+it, yes. And I will reinforce, you know, in my very natural way, how helpful you've been in driving this, which I think is, I know you don't care, but I'm just telling you my narrative. Like, I think that's important, because I also think, frankly, McLean is coming out of this looking like a complete idiot to everybody else on the board right now, because of exactly your point when we talked on Friday, like he has thrown two shit storms now at cast that have caused a bunch of issues, and then he never does anything. Literally never does anything. All they want to do is like, call and gossip and bullshit and talk about
+
+Joseph Guzel  19:07:26
+Pakistani chicken, yeah,
+
+Unknown Speaker  19:07:30
+like, literally, he's
+
+Joseph Guzel  19:07:31
+not doing anything. And so chewing in the background, I know, yeah. I'm like,
+
+Matt Talbot (Cast Finance)  19:07:36
+Dude, I like very consequential stuff, and you're telling me that Joe has been exited from AVEN, right? And that he's gone. I mean, like, it's crazy shit, but it is what it is. Thank you. Yeah, and we'll talk on Wednesday. I'll send you some
+
+Joseph Guzel  19:07:50
+shit ahead of time. Yeah, let's I'd like you to be able to call your board by Wednesday, because I would love I gotta get this
+
+Matt Talbot (Cast Finance)  19:07:56
+shit done. I gotta get on. You got stuff you gotta, you gotta go finish the race. For context,
+
+Unknown Speaker  19:08:01
+you know you're still in do you like that name? I
+
+Speaker 1  19:08:04
+love it. I think it's so good for 2020 I think it's
+
+Joseph Guzel  19:08:07
+fucking awesome. I think I'll end up changing it again. But the I think it's good. It's just gonna be it's really good. I gotta jump. I'm gonna trouble later. Buddy. Peace, seated,
+
+Unknown Speaker  19:08:21
+okay.
+
+
+Transcribed by https://otter.ai
