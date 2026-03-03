@@ -1,0 +1,758 @@
+Liam Gallacher  13:06:11
+It, and then we did it. We made like, three times our money in like nine months. We sell it. But then, like, every other investment they did, it's like, not that great. So we're kind of like, well, this is, you know, like, you know, excuse the signal. I'd rather just you
+
+McLain Southworth  13:06:30
+know. Well, the way that, the way that my sister, brother in law's family office, is, like, been thinking about it and been doing it now, okay, is the guy that kind of runs investments. He's like, he's like, I'll have one portfolio fund, one fund that we invested in. They can only send me one deal, and I'm gonna include the return on that d a deal in with the return of, like, of the fund to us. I'm just gonna calculate it as one return profile, so you better fucking send us a good one.
+
+Liam Gallacher  13:07:06
+Yeah, you better send a good one exactly. And like, it's, it's, it's, like, and the thing too, is, is, I'm sure that you guys have more infrastructure than us. Like, for the longest time it was me and CFO and like, I just, I ended up going to, I was just like, I can't manage fucking all these portfolio companies and these fucking managers and all that. I'm just like, Fuck this. Let's just not do this anymore. This is just too much work. We want to hire someone to help me out. Great, but like, you know we're going to be okay. Like, whether we make like, 3.8x with a manager, or like 4.7 like, the the extra one turn is great, but it doesn't like, does it add so much extra bullshit that I gotta think about that I don't really want
+
+McLain Southworth  13:07:53
+to think about, think about it. Well, you know, I made 3x this morning. You did.
+
+Liam Gallacher  13:07:56
+And then that would be, that'd be way better. I'd rather just have Robin Hood send me like, do you want to invest in circle
+
+McLain Southworth  13:08:01
+IPO? I was telling Liam that, like, Robin Hood messaged me like, hey, get access to circles IPO. I'm like, fuck yeah, you have to put in your request. And so I put in like, I was like, I want this many shares. And so then yesterday, they were like, we've got our allocations. You get 17 shares. And I'm like,
+
+Joseph Guzel  13:08:20
+you own a lot more of it then, then, or you will than you think, because of that's what visa wants us to do for them. Yeah. I mean, isn't the way to look at that one, I guess, like that. It's bonds. Like you bought a bunch of bonds on a pre Well,
+
+McLain Southworth  13:08:35
+no, I got, I got, I got IPO. I got free IPO at 31 cents a share. Now it's at 86 so I turned $500 into $1,500 and so I three against my money this morning.
+
+Joseph Guzel  13:08:46
+But I guess is the way to look at because I'm I'm learning about circle. I mean, I know what it is, but like, is it going to be valued, like, a visa, or is it aren't, isn't it just treasury bonds?
+
+McLain Southworth  13:09:00
+It's essentially, it's essentially, like, it's essentially visa, but on, like, stable points,
+
+Joseph Guzel  13:09:08
+yeah, that's what, yeah. And so it's like, that's what Westerns trying to get us to do, is like, facilitate those transactions, is like the sub accounting layer for, basically do their job for them, I guess. But like, Yeah, I thought, like, as a company, partnered
+
+McLain Southworth  13:09:22
+up with circle for, for a lot of the stable point stuff,
+
+Joseph Guzel  13:09:26
+yeah, as a
+
+Liam Gallacher  13:09:27
+company, no, it makes sense why you would. Because it's like, it's just USDC,
+
+Joseph Guzel  13:09:32
+right? Yeah, that's just they issued us they issue USDC, but they don't hold the USDC. They don't let do they hold it like, because it started as a consortium, just like, these are MasterCard, and the other, I'm
+
+McLain Southworth  13:09:44
+sure, they hold it in their treasury some, some degree. So like, the
+
+Joseph Guzel  13:09:47
+value that's, I'm just talking like that, relative to the value of the stock. Then it's like, does it? Is it foot, you know, shouldn't just normalize? Well, I
+
+McLain Southworth  13:09:57
+think, you know, I don't think it's, you know, I think it grows $5 yeah, but I was hoping for a little bit more than 17 shares of allocation. But
+
+Liam Gallacher  13:10:08
+I think it's funny dude, like, I think, and then then you're kind of like, well, I guess I gotta accept it, like, I'll take it. Like, sure, I'll take it. You're also kind of like, Oh man, it's almost it's, I'll I have this. So when I live in the States, I have this IRA that that cannonball set up for me, and I've got $400 in it. So I called them today, being like, can I just, like, forfeit this money, because I don't want to have any accounts in the US we're like, Well, sir, you cannot forfeit this money. I'm like, Okay, well, what the fuck can I do then? Well, we can remit it all of the US Treasury, and then the IRS, and then they might have to give you money back. And I'm just like, fuck. I'm like, Well, I don't want you to send me a check, because then I have to Frick if you send me a check, then I have to do a freaking tax return. And I don't want to do any more US tax returns. I've dealt with the IRS. I fucking hate dealing fucking hate deal with the IRS. And I'm like, fuck I, like, sent my account the other day. He's like, it's 400 bucks. Liam like, I'm
+
+Unknown Speaker  13:11:01
+not, like,
+
+Liam Gallacher  13:11:05
+yeah. It's like, this is more expensive than, like, my opinion, for five minutes is more expensive than the assets and this fucking thing. Yeah. But like, I don't want to, I don't want to, like, have to then file fucking I don't want to file with the IRS. You give it up. I'm like, Joe, and, like, the best part is, it's held by American Century investments, which is owned by a charity. So it's like, just give the fucking money.
+
+Unknown Speaker  13:11:27
+I bequeath it to you,
+
+Liam Gallacher  13:11:30
+and you have to you, and you have to give me a don't give me a tax return. Don't get don't give me a tag. Don't give
+
+Joseph Guzel  13:11:35
+me a tax receipt, man, the you guys are talking about, oh, sorry buddy. I was
+
+McLain Southworth  13:11:41
+just gonna say Bradley Horowitz, as you know, is on the border circle. Oh,
+
+Joseph Guzel  13:11:45
+is he? I didn't know he's on the board. I know that he, you always talk about that because Bradley Horowitz is an early Google guy, Liam, and he's just like, funny. He's kind of like Kramer at from Seinfeld that like McLean, McLean Street, where he kind of just is popping in all the time, and he's so smart, and he's like, he's like, McLean, I know I finally figured out crypto and the opportunity use case, the use case,
+
+Unknown Speaker  13:12:13
+USDC,
+
+Joseph Guzel  13:12:18
+you're not to keep wasting anybody's time, but you guys were talking about something I've been meaning that I've been curious about Liam, which, from the LP perspective, like, are you these days? Are you just getting, like, a shit ton of people trying to hockey SPVs and all kinds of,
+
+Liam Gallacher  13:12:33
+oh no. It's just, it's just like, I remember we so we have a crypto manager, and like, the girl was like, giving me shit for not doing the SPVs, she would have made so much more money. And I was like, like, I didn't want to, like, sound flipping, but it's just like, Yeah, I would have made more money. But like, what the fuck would I done with the money? Like, I know that sounds really fucking like, it's just like, Okay, great. I would have put like, a couple 100 grand and all these fucking SPVs. I would have had to have, like, written some sort of Investment Committee memo on it. So that would have taken me a lot of time. And then, you know, they would have gone up by, like, threefold. So I turned my 250 into, like, 750, 500 grand. It's like, then you got to get it back to Canada. I get fucking tax advice. Like, fuck this. I don't want to deal with it. What are you like? You manage, you manage the you manage the money. Okay, I don't want to fucking do any work. Like, just fucking I gave you the money to not do work. Don't fucking make me do work. That's like, if you came to me, if you came to me and said, Liam, I can't guarantee you that it's going to be a 10x but like, I'm putting my own I'm doing what that Bob Brier guy did with at Excel, with Facebook. It's like I only invested in one deal, myself, personally, which is Facebook, okay? And you said, this is a generational opportunity. I'd be like, cool. If you're taking your own money and you had to go to your, your own fucking ELPAC and your, you know, your investment committee to get approval to invest in this one thing, then I'll probably do it. But other than that, fuck no.
+
+Joseph Guzel  13:14:14
+Have you made any money on any of those things? Like,
+
+Liam Gallacher  13:14:17
+oh, yeah, we made lots of money on them. Yeah, are the we probably, probably made more money on them than we've lost. Like, we probably made multiples more money than we've lost. It's just, it's just, it's just a bunch of work you have to follow up with them. Like, how
+
+Joseph Guzel  13:14:32
+many, I've never asked you this either. Like, how many venture funds are y'all? Man, oh, I
+
+Unknown Speaker  13:14:35
+don't know what 20 or 25 maybe.
+
+Joseph Guzel  13:14:39
+Are they all seed? Are they all over the place? They're all over the
+
+Liam Gallacher  13:14:41
+place. You got to be diversified. But they're mostly seed. And then
+
+Joseph Guzel  13:14:46
+are you? What's the because we don't get out much, or at least I don't. La, is weird? Like, I mean, all the funds here are just kind of meth. There are a couple of good ones. I mean, bonfire is excellent, but, and, you know, Riot is in a good, good spot. But, like, there just aren't a lot of interesting managers here because that, no, nobody really had Silicon Valley DNA.
+
+Liam Gallacher  13:15:10
+You know what? Though, like, what we've learned is that you just want a lot of shots on goal,
+
+Joseph Guzel  13:15:15
+yeah, especially just like, what's what? What are folks coming you with? Out of curiosity, I haven't asked. Ben,
+
+Liam Gallacher  13:15:22
+does most of it, man, he does it. Also. Ben, he does that now, and goes out there and bird dogs at all, and comes back to us and says, Hey, we should do this. And we say, Great, write. A fucking investment could be important. We'll be on our way. And is
+
+Joseph Guzel  13:15:32
+he not going to do the Stacy thing anymore? Is he still trying
+
+Liam Gallacher  13:15:35
+to say something they got there, they got their interview with the Ontario security switch next
+
+Joseph Guzel  13:15:39
+week. God man. What a slot that's been for him. But at least he's been persevering. That's not easy, for
+
+Liam Gallacher  13:15:45
+sure. Anyways, guys,
+
+Joseph Guzel  13:15:48
+yeah, sorry, yeah. So I McLean, thanks for sending that. I have not gotten a chance to look at it yet. I was working
+
+McLain Southworth  13:15:55
+on this tiger. Maybe let me just kind of speak to it quickly. Yeah. So I couldn't really do a red line, because we took the original document, which was very much kind of like, you know, it was, it was soft language, and turn it into more of a legal thing, which kind of changed a lot of the structure of the language, but the spirit of the agreement is still pretty much the same. I think, obviously we'd love to get to get your opinion with a lot of the changes that we kind of talked about here, and you know, some of the things that you had suggested, I kind of incorporated. So I think it's, it's, it's non controversial. I had my lawyers go over it. They made minor changes. That's all to say that, like, this version right here, like, I'm ready to sign right and so it's so just
+
+Liam Gallacher  13:16:46
+Joe. I read it, by the way, to just an FYI, like, I read it like before. So you guys
+
+Joseph Guzel  13:16:51
+have more info than me. I trust y'all, I'm
+
+Liam Gallacher  13:16:55
+no, like, read it like, don't like, obviously, I'm just saying that. Like, I McLean sends me first before he sends his lawyers, just to be like, Hey, I just want to make sure this is like, this passes the smell test. And I thought that it was, it was fair. It's not, it's very, it's not specific to any one person. It's just, it's it's very like it's essentially mutual, become mutually binding and mutual in nature. So anyway, show you, and you go from there
+
+McLain Southworth  13:17:25
+and also in it, rather than defining language about things like how we speak to LPs and stuff like that. Rather than having it in this, which is going to be an addendum to the GP agreement, I specifically reference, like, the language to the LPS will be covered in the non disclosure agreement, because that will kind of really govern a lot of like, what we say, what we don't say, things like that. Yeah,
+
+Joseph Guzel  13:17:50
+which I think, yeah, and that'll be, but, okay, okay, that makes sense.
+
+Speaker 1  13:17:56
+What we'll do so, because, so, how, so, how so, how go is,
+
+Joseph Guzel  13:18:00
+is, I make sense why it would go in there. Yeah, there's
+
+Liam Gallacher  13:18:03
+no, there's no point like the operating agreements, the operating agreement, right? Then the next part is, okay, we agree on the operating agreement. Wonderful. Then the end, the NDA comes around, we have an appendix with the LP outreach stuff, and
+
+Unknown Speaker  13:18:21
+you go from there, yeah, the only
+
+McLain Southworth  13:18:26
+separate documents, which, besides this, is once, once we execute this, you know, I think we can kind of, you know, get access controls back and things like that. And the NBA stuff should be very straightforward, but, you know, we do the NDA slash language to the LPS is one document, and then there's in in here, I talk about kind of an expense policy that will just be a separate document that we can execute
+
+Joseph Guzel  13:19:03
+within 30 days. What's your this keeps coming up all the time, this expense policy, I'm curious what your what you're thinking it's just
+
+McLain Southworth  13:19:11
+like things like making sure that we're only charging things that are like a business expense. Well,
+
+Liam Gallacher  13:19:16
+I also, I also think too, like McLean, you can't have the company. You need to get a fucking different card.
+
+Joseph Guzel  13:19:23
+I set up, I actually set up a I didn't get a chance to actually email you about this is a couple weeks ago. I just said I've set up a haven corporate AmEx, not something tied to him, which, I, believe it or not, we were running off of it. It looks like an Amex platinum. It's the same thing McLean, but it's not tied to you anymore. Yeah, so it's, we can transfer everything over to that,
+
+McLain Southworth  13:19:46
+because it's not, yeah. Well, I think, I think it's beyond that, just, you know, just making sure that we're, we're, we're staying buttoned up on expenses and things like that. Yeah,
+
+Liam Gallacher  13:19:55
+I think, I think, I think the big thing on expenses, Joe, what you want to do is just want to make sure that it like, you want to make sure that there's some sort of policy and that there's a trail, just in case, just in case, like some LP was like, hey, I want to do forensic accounting thing. I'm like, whatever. Like, they're really upset. We
+
+Joseph Guzel  13:20:14
+have our our treatment on fund level versus expenses, like, actually, really pretty sophisticated. We are good on the audits on that as of the last one and and it was a shit show before. It took a long time to fix. We did. We weren't categorizing anything as a fund level expense, nor would we have been if I didn't sober up for two seconds, because just fund admins are not great these days. But those expenses are those, you know, ongoing board responsibilities and stuff like that. It's, it's those are all like fun level expenses, and so, like, for, you know, both of us, so it's like, it's, I don't, it's, we don't have offices. We don't have the way we've been running this land is just like on the AMEX, plus then we just, you know, run the whole thing through Amex. We don't really have anything. We don't have employees. We don't have any sophisticated systems other than, like, you know, subscriptions, do a little I think, honestly,
+
+Liam Gallacher  13:21:15
+Joe, all you want to do is you just want to have you you want to like, what I like. Okay, so I just joined this board and like, we don't have any like, we don't have like, board evaluations. We don't have CEO evaluations, we don't have a fucking Governance Committee. We don't have, like, any of this stuff, right? And so what I said to the board was, I said, okay, like, we need all this shit. Like, I understand we're, like, a small company, but like, you know, if you start dealing with the bigger companies, they're gonna want to see all this stuff. I mean, you want to just do it so you're not on the clock doing,
+
+Joseph Guzel  13:21:50
+I mean, like, it's, I've been, I've been on the hook for, you know, managing a lot of this stuff, like, from day one. So it's like, if you have a proposal, McLean on a budget, and you want to put something together, and we can look at it, it's not necessary. If we had employees and stuff, which we're not going to
+
+McLain Southworth  13:22:10
+then I think it's not necessarily a budget I'm concerned about. I'm just, like, making sure that, you know,
+
+Joseph Guzel  13:22:17
+what's what, what's the precedent for, like, needing it. I'm not trying to, like, be,
+
+McLain Southworth  13:22:23
+you know, just, I mean, I don't want to get into it. But just like, as an example, when, you know, you charge a good chunk of your honeymoon to the corporate card. And, you know, it's just, I didn't, I'm just trying to avoid situations like that where it could cause
+
+Joseph Guzel  13:22:41
+I use some of the points yesterday for I use some of the points yesterday for the thing. But
+
+McLain Southworth  13:22:49
+I'm not talking about this. I'm talking about your actual honeymoon.
+
+Joseph Guzel  13:22:51
+Did I did end up getting was it just straight up? I did I actually get that? Yeah, okay, how much was that?
+
+McLain Southworth  13:23:00
+It doesn't matter. I'm just, but I'm just trying to, I just don't want to, I just don't want there to be any controversy going forward. It's basically what I'm saying, right? Yeah.
+
+Joseph Guzel  13:23:08
+I mean, look, it's like, it's just, I don't have any kids and I and the insurance is more expensive. With your family. You're having another kid. I don't, I don't give a shit. Like, these are, these are smaller things relative to the, you know, the things that I care about,
+
+McLain Southworth  13:23:21
+yeah, and that's what I'm saying, is like, let's, let's just come to an agreement on it in terms of what we can spend
+
+Joseph Guzel  13:23:28
+cool I don't want to, want it to be like Nirvana, or some like The Beatles, like bitching over royalties on a fucking album here, like it's, you know,
+
+McLain Southworth  13:23:36
+it's well, and that's why I just think as much, I also have rent. You
+
+Joseph Guzel  13:23:40
+don't have rent, you know, it's like, it's not that I'm not spending anything crazy. I'm usually in this room. But I get it. I get I know that stuff's going,
+
+McLain Southworth  13:23:51
+yeah, yeah. It's just making sure, I mean, like, and, you know, we
+
+Joseph Guzel  13:23:57
+hard we have, like, I'm
+
+McLain Southworth  13:23:59
+not saying, I'm not saying like, like, anytime we've spent money on this, I'm just saying, like, let's, let's define something going forward as well.
+
+Joseph Guzel  13:24:06
+Yeah. It's like, you know, I've always just taken the thing of like, whatever you need. Like, it's because I looked at this like a partnership. It's we just been sharing a bank account a little too long, where we become like fucking wives. Clearly, okay, and then what else? What else is in here? I haven't, I haven't read it in full. I haven't had I sent it to Latham just now. But, yeah, what's beyond,
+
+McLain Southworth  13:24:33
+I don't really, I mean, I just feel like, in
+
+Joseph Guzel  13:24:36
+terms of the stuff like, I've made very clear that are like, super important to me to like, move forward and I and the other clarity is, is trying to understand like, because we talked about how much, how much of the drafting of this was your mindset, like timing to get my access controls back, relative to like stuff we haven't figured out yet, like the stuff that I said I was going to do yesterday, that I didn't have time to do because of Tiger II. Like that we're going to sign as a condition of this, versus the the amendment. And then, like, actual timeline here being defined,
+
+Liam Gallacher  13:25:17
+yeah, so I think, I think Joe, I think getting this operating kind of principles thing executed gets you your, gets you to your, comes back,
+
+Speaker 2  13:25:26
+got it immediately playing, right.
+
+Joseph Guzel  13:25:32
+Okay, what was one theory? Once, once, once, once,
+
+Liam Gallacher  13:25:35
+once, once, that's done. You get your comments back immediately. Then what we do? We in concurrently. Then we start drafting the we start drafting what, what, how you guys are going to go like, what LPS you're going to talk to, okay, about getting your, you know, remedying your reputation. Okay, we're going to figure out, like, the reserves thing, like, are you in reserve? So if you're going reserves, and then you're going to, that's going to layer into the next quarterly, quarterly update. We're going to talk about how you're in reserves, and then what you're also going to do is we're gonna, we're gonna have, we're gonna, we're gonna draft a statement that's gonna go out to all the lps saying, like, hey, just an FYI, we're in reserves. Um, also, uh, Joe and I are going our separate ways, and we're gonna manage this fund out. But we're also decide not to. We're deciding to kind of split up and go do our own thing. We'll come, you know, we'll be a lot more eloquent than that. That'll be an appendix that'll go to all the lps. There'll be a proof of both you and then from there, we'll start, you know, you guys start, you know, you guys start going and raising your funds and moving on.
+
+McLain Southworth  13:26:54
+Yeah, I think that sounds about right. That'll make
+
+Joseph Guzel  13:26:58
+sense. Okay. I think that's
+
+Unknown Speaker  13:27:00
+kind of how I look at it, yeah.
+
+Joseph Guzel  13:27:04
+So timing with respect to that stuff, I think defining it is,
+
+Unknown Speaker  13:27:13
+yeah, so just malaise
+
+Joseph Guzel  13:27:15
+that I've been in for months,
+
+McLain Southworth  13:27:18
+yeah? So timing is, if you sign this today, you get your comms back today, right? And it's just, it's up to you. Obviously, you're not saying like, don't just accept like, feel free if there's changes you need to make, feel free to suggest. So
+
+Joseph Guzel  13:27:32
+I'm not Yeah. I'm not trying to, I'm not trying to, like, hard ass negotiate here, because I just Yeah.
+
+Liam Gallacher  13:27:37
+I feel like we both, and also Joe, like, when I read it right? Like, it's like I read it first,
+
+Speaker 2  13:27:47
+I felt like this is something that I would sign as well. Like,
+
+Liam Gallacher  13:27:56
+this is supposed to be a collaborative process, so this isn't like, Hey, you get your comms back if you sign this, but if you don't, you'll get your comments back. No, that's not it. What happens is, is is that we're trying to come to a mutually agreed, agreed upon document. And once we come to a mutually agreed upon document, the first thing that happens after it's signed is you get your comments back. That's essentially what we're that's what we're talking about. I got you
+
+McLain Southworth  13:28:25
+and then, and then, I think with the NDA stuff, and I think it's in both of our interests to get that done as soon as possible. But I don't think we necessarily think we necessarily need to do it as a condition of getting your cons back right, because
+
+Liam Gallacher  13:28:37
+I think we both want, if you wanted to be, if you like, if you want to do the NDA in this concurrently. Joe, that's fine, but I'm
+
+Joseph Guzel  13:28:43
+not, I'm not as concerned about the NDA on my end. I know why it's important for McLean, and I appreciate it and I understand it, and then I'm here to here to help, here to get this stuff done together. I think, like, like, the only, I mean, you know, before, I'm excited, and, by the way, thank you. And I'm excited that we're finally close. Really take it to the wire the and it just gives us, you know, immediate peace and shared footing. And you know, it's nice to be talking to each other again without being mad at each other, which I'm not mad at all, you know, but on the last call or the one before last, it's like, in the spirit of, like, assurances and stuff for both of us, like I need what I feel like I'd need to not keep staring at the ceiling every night till 4am is like something that's clear and non ambiguous and mutual on a couple points, which is like what we both agreed must be decided before the GP amendment. And I, and candidly, I had to, have to go back to, like, the notes and make sure that we all line up there so that, like, when we head into the next phase of stuff, it's we're on a, you know, locked arm kind of path here, towards the timeline to something versus, like, opening up avenues for potential, you know, horse trading, or any, any, any stuff, just like, you know, what the bad shift that might happen will happen. Maybe somebody wakes up on the wrong side of the bed. Maybe it takes, you know, 3060, days, and McLean's got two kids running around the house and a wife who just had a kid, and he's not sleeping and I'm not sleeping, and, you know, try to avoid that, so we can just get her done. And then so they would be, you know, like the anchor strategy and some clarification around that. And then that can have also the attribution clarity in there as well. And then, and so that that signing, what
+
+Liam Gallacher  13:30:58
+do you want on those two things, what do you want on those two things? I
+
+Joseph Guzel  13:31:02
+mean, what I what, what I want, what I and if it can't happen, then let's just be upfront and then figure out how, because that will then inform and what I'm referring to is the anchor check. Because if that's like a flat out, absolutely not then, for any number of reasons, it's like, I totally get it like you can't. It's not his to necessarily control in that way. But that's the thing that I clearly need, and it informs so many other things. So, like, if, if we're just, like, upfront with, with what, like, what gets it done. Because, like, I need to get to a fund, and heaven would look like, you know, I signed this knowing that I'm going to have, you know, a 20% anchor of a $75 million fund on the first close, and then everything else is, like, it's almost like I'm just focusing on McLean after that candidly, right? And like, What he needs is how that changes everything, because I'm in a secure place where I can continue, you know, doing venture, being an asset allocator, capital allocator, and, you know, compound on the thesis here, like, like, this memo I'm supposed to send to you McLean, but, yeah,
+
+McLain Southworth  13:32:25
+so I think, I think, like, like I mentioned last Time, I think you would be, it's very hard sell internally to have, like, who be an anchor check here, right? Especially, you know, when I'm not involved, it kind of just given, you know, because they're, they're very clear on everything that happened and I've been kind of treating it with, you know, child gloves, but, you know, they, they know what happened. You know, they got the emails and all that stuff. So I just, I just think it's banking on that. I think would be a very difficult proposition, which is why I think, you know, when we chatted last you know, if there's some sort of, I don't even know if it needs to be in this, maybe it can be in the separate document, but like, I'm willing to help you fundraise, right? Yeah, and it's guaranteed an anchor check from anyone, or even a minor check from anyone. But you know, I, you know
+
+Joseph Guzel  13:33:32
+my best, and I'm not in this isn't like to like, be like, give me the thing. Like, dude, I we've been working together on this forever, man, like, and, and shit. I remember when you were going to Lucy for that. I know how it goes, like, what the with the ass? Like, it's not, you guys all live together, your family, like, it's like, how I'm out of 20. It's like, so, in the spirit of the that I'm all too familiar with, like, like, what's I know, what's important also for us, the attribution So, and it's, it's super necessary for you, which, like, that's all tied to the same thing. So, and it's in it's, it's no different than like, then you know what the founders and stuff are going to like, like, the appearing strong and locked going forward, so that it's like, we made this decision and Haven's Great. Instead of like, you know, McLean wants to do this and Joe wants to do this. Like, I don't think that's a strong narrative, right? It's like Haven on a really good body of work, and our thesis was accurate, and so, and we have a lot of work left to do. Like, there's a lot of value to extract from here. And like, well, I
+
+Liam Gallacher  13:35:03
+Joe, I actually have a, I actually have a good thesis, if McLean's willing
+
+Unknown Speaker  13:35:07
+to do it, yeah, so
+
+Liam Gallacher  13:35:11
+you want to keep the thesis going, right? Joe, sure, yeah, yeah, of course you want. You want to keep the thesis going, correct? Yeah, McLean, I'm not 100% sure you want to keep the exact thesis going forward. You might want to do something different. Is that correct? Right? Okay, so I actually think that if you're willing, McLean, you can say, hey, look, I still believe in the thesis, but I want to go do something different. That excites me. Joe is going to keep the thesis going forward, and I still believe in it. You can start iterating on that and, and that's actually an easier sell to the rest of the community, because you sit there and say, hey, look, I wanted to go do something different, and and I'm going to go pursue that,
+
+McLain Southworth  13:35:57
+or even if it's even if it's like a minor divergence of thesis, right? Or it's just like it's, I love FinTech, right? And maybe I'll do fintech. Joe is very much like very much wants to do the read, write, you know, company building incubation type stuff, and he's going to do that, right?
+
+Joseph Guzel  13:36:18
+Yeah, it's, I've literally been like, writing it out for months, but it's what was going to be like, The Haven two thing and like, and whether it the other thing was, like, I don't know if you guys were came off the last call thinking, like, okay, Joe's going to be doing like, Haven two, and then McLean doing another thing. I don't I don't think any of that stuff is actually as that all gets figured out as because as we figure it out, like we're McLean's obviously figuring it out real time. I'm figuring it out real time because we haven't had time to iterate on this and and so all of it is all that can sound awesome and work because like, and also within the dichotomy of like, what every the entire community knows about us as a team, like, it's the same thing that you, you know, purchased Liam when you became an LP, which is, it's not a surprise if, like, McLean went to go do, I'm not saying you're going to do this, but like, if McLean went to go do politics or something, that's not a surprise for folks. If he, like, just decided to go do that, right because of his situation relative to it's like, oh, Joe decided to go do something else. It's like, what short shawarma? Like, what's he doing? And and so, like, or if it was like, you know, it's no different than the quantum thing or so, like, maybe you're going to want to leverage the thesis as part of your launch pad.
+
+Liam Gallacher  13:37:51
+I just think, I think Joe, like, I think that what I said and is, is a is, like, a is a really harmonious way to go about it, in the sense that you guys are, you guys are, you know, you want to go do other things. Well, maybe, like, or McLean wants to go do something else, a little different and, and rather than it be like, Yeah, we fucking hate each other. Like, that's not a good narrative, yeah, and that's not good for any narrative in China. It's not good for anybody. So I think that narrative should be kind of something along those lines you're iterating on.
+
+Joseph Guzel  13:38:28
+And like, like, his idea, his idea. The other day about, like, the formation eight Tiger global, I thought was like, one excellent idea, like, like that. It's about, it's about Liam from, from, like, the basis of, at the end of the day, we're only as credible, like, as as as long as Haven one continues to have a good trajectory. Here, he he's working on, you know, like, like, anything space or whatever, anything you want to do. Like, if Haven ones continues to be a fantastic body of work and we maintain the trajectory, then it's just going to make us look good period so and give us more credibility. Period as doing whatever. So like, like, his idea about the formation eight thing, or the tiger global thing, is like, it's like, it may just makes us look a lot smarter and forward thinking and, like, correct, and it gives us more moves. I love, you know, we need moves. Agree, no. And so I agree, yeah. And it's like, I don't if it's a good idea for us to have me caught, like, have this, this narrative, if of Joe's like, continuing forward with the platform, and then, because you McLean, you decide, like, you need that or something, if that's important, or if it's the other way. I think that language
+
+McLain Southworth  13:39:52
+like continuing forward the platform, because it does sound that language sounds like it's a continuation of the fund. But if you can say something along the lines of,
+
+Joseph Guzel  13:40:00
+I can't think of any reason why
+
+Unknown Speaker  13:40:02
+we'll
+
+Liam Gallacher  13:40:03
+be think thesis is better. I think thesis is better than platform. Well, yes,
+
+Joseph Guzel  13:40:08
+this is like, like, it's just kind of like, Yeah, I mean, it's or, like, if you do, you know, like, I'm not trying to pull anything out of you unless there's something crazy that is, shouldn't be somebody's hiding from you. But like, are, do you want to keep doing investing? Is, or is that just totally off your plate, or you don't know? Like, you're still my
+
+McLain Southworth  13:40:28
+friend. I want to, I want to continue doing investing. I just, you know, I figure you want to do something with New Mexico. I mean, I don't even need to just,
+
+Joseph Guzel  13:40:41
+it's a fit with the family stuff. That's what
+
+McLain Southworth  13:40:43
+I'm giving myself time to figure that out. I feel
+
+Joseph Guzel  13:40:48
+you. I mean, like
+
+Liam Gallacher  13:40:52
+that. I think that what we should try to do on these calls is just try to iterate on the like. It doesn't really matter what you guys like want to do post. I think what matters is, how are you guys, how are we going to get the messaging across? That's totally, that's that that's
+
+Joseph Guzel  13:41:13
+that's a way for both of you, clean, strong and less, like clean and less is always just good, right? And so until, in the absence of of us, especially to anyone outside the community, like with the LPs, like we should have a really solidified mesh message that's going to enable like, like, if, if Lucy and Larry and stuff can't support the fund in some way optically, then, then, and if you're sorry, hold on. Let me, let me. I'm thinking on the fly here, because I'm getting ahead of myself. I think like, Okay, well, if you're going to give yourself some time to figure it out, right, brother, and then my priority is, is having a first close as quick as possible, on on HVC or whatever, then put making the narrative in service of that coming, like, coming to the where it's, it's, it's gonna work for you in the same way, because it's just like strength of Haven one. And then you know, McLean's gonna, you know, McLean's gonna go, you know, to outer space, or, who knows, like, or he's working on something, oh, like, Oh, he's working on something here. And then, and, like, keep it like, and then it's like, and I'm going to continue forward on, like, the seed strategy, you know, capitalizing on the application layer, or whatever. And then, yeah, and then that makes everything easier for Yeah. Like,
+
+Liam Gallacher  13:42:54
+look Joe, like I would how I see this going, like I talked to Ben about the other day, right? Ben was like, Joe needs to get a hold of me so I can start making intros.
+
+Joseph Guzel  13:43:02
+Yeah, yeah. And I love that, so and so and so. My
+
+Liam Gallacher  13:43:06
+view is, is, is, I don't see there being any issue. Like, you let me know. McLean, like, I don't see there be any issue of of you, like, in the ground running once this thing's once this thing's behind us totally. And I think that that you probably should, like, I feel like it should be the easiest part.
+
+Joseph Guzel  13:43:24
+And I'm kind of, and forgive me, like, I don't, what am I missing, I guess, like, I feel like this is the easiest part. The hardest part the hardest part is my reputation, like, getting kind of cleaned up here. That's the only thing that, yeah, is like,
+
+McLain Southworth  13:43:39
+I think, I think in terms of going forward, right? I think the only like, I can't tell you, like, you can't do the second strategy, right? Because that's not something that's ownable, right? Things like the name, like the name that's ownable, things like track record, stuff that's ownable, but like you and I could both go and market like we're doing the exact same thing, but separate, right? Yeah, totally. But I guess my point is, is that, like, I don't have a problem with you being like, I'm continuing a same or similar strategy to, you know, what we work on at Haven Right? And, and I'm and I'm continuing forward with that, like there's
+
+Joseph Guzel  13:44:30
+no the problem. Like, we have this. We face this. This is a good point. See the the I hear you and like so, because we had to deal with this across like, right and like, and, and on the surface, it seemed like doing, you know, a $50 million fund, or whatever. As the spin out was because of the market, it would have been easier for us to do, like, Nothing's easy about the fun ones, like a cross cut or whatever. But part of it was my underwriting with the spin out was, you know, but 1/3 ease of launch, because I lived that with cross cut, and I was like, fuck, I don't like, even with all that, it's hard to and knowing that you were going to be able to work some magic, you know, and get something done, like, like, either way, that was then. And so where it was palatable for cross link was that we weren't raising 175 million, right? And so, I mean, look at how fucking directly competitive we are with them right now, man. I mean, like, like, it's like, literally the most competitive situation right now with our alma mater. And so if what your if, what you want to do, is also the direct thesis, like, knowing that you can have a first close on a billion with Bradley Horowitz or whatever, if that's going to be your partner, if you're going to do something totally, if it's you and Christina, whatever. And knowing that, like, also, like the New Mexico stuff is all Haven stuff too, right? Like, converge and all that. Like, let's make it synergistic so we all win. Then
+
+McLain Southworth  13:46:16
+I didn't say that because I, you know, I'm saying that I'm going to compete with you head
+
+Joseph Guzel  13:46:22
+on head. No, no. I'm saying, like, even if that's what you were thinking, I'm trying to just put your mind at ease, like I'm because i It's all just like, I'm just like, I want to win a lot. Yeah, I want to keep winning with you. I do. That's, that's why I was like, if, you know, make you an owner, and my thing, I'd be an owner and your thing, like, like, that's more, that's, that's like, the synergy that you and I had a cross link, which was really good, or which came through when we would do investments here, right? Like, we don't miss a beat. It was, like, back in 2017 you and me smacking, just kicking ass, just and so, yeah, like, if what you're thinking is like, I'm going to go, like, really big, it's like, okay, sick. Like, then let me match up to you so that I can do the thing that I'm really good at and then make your thing really, really good,
+
+Unknown Speaker  13:47:16
+yeah? Like, I think,
+
+Liam Gallacher  13:47:18
+I think, I think, guys, I think we're getting to the weeds here. Like, I think, like, let's like, and this is, this is, you know, I
+
+Joseph Guzel  13:47:26
+thought, I think this is, like, the good stuff. Actually, I don't know why it's the weeds. Like, it's, well,
+
+Liam Gallacher  13:47:29
+I just, I'm just, I'm just saying, like, we're kind of talking hypotheticals, right? Like, so first off, right? Like,
+
+Joseph Guzel  13:47:37
+I don't know what he wants. Like, if he if Kenny, he's, and I just learned today, right now, that he's still figuring it out, I, you know,
+
+Liam Gallacher  13:47:43
+and I think that that's fair. I don't think that we should. I think that that's probably more the answer. I think at the end of the day, right? Like, I think, I think at the end of the day, like, my view, like, McLean, you let me know if I'm wrong for saying this, but like, my view is, is that McLean's gonna take some time to figure it out, right? So, like, he's gonna, you know, it's not gonna come to fruition. It's not gonna come together in the next two days. I think Joe, like, you're pretty clear about, like, what you want to do and where you want to be, and what thesis you want to like pitch, and where you see this read write thing going. And I think that at the end of the day, at the end of the day, I think that, you know, it was how I look at it, like it wouldn't take you that long to put to spin, together a deck, to be able to go out to investors and go and I think that, yeah, and so and so. My view is, I think what McLean's also saying is that he's like, look, I'm willing to help you where I can, on the best efforts basis. I have no issue with you once we get this past us, for you to kind of go out there and, like, raise this and what I'm also saying is, I'm not going to be doing that like day one. I think I know what you're trying to say is, you're like, hey, if we're doing the same thing, I don't want to get blown out of the water, because McLean raises this huge fund, and I'm still in the process of it, but I just don't see that happening. Yeah, it's like,
+
+Joseph Guzel  13:49:04
+it's like, even if what he wanted to do is exactly what I wanted to do, I don't see, like, how we can still make that work. Because, like, I mean, it can always work. Like, yeah, it just it, just because, because, like, because, again, we both are really vested in Haven one to the tune of literally exactly the same amount, and so, and there's still a lot of a lot of work. And so, like, if, and I was right about my thesis, because I started it when I was 20 years old, you know, like that. That's, it's not like, I'm fucking sure, you know, I'm not like, it's just like I happen to be the only person under 40 that did this shit for his whole career. And so it worked for all of our benefit here equally. And so like, fucking, let's keep doing it. Because the way that I'm going to have to invest it, we would have had to invest together McLean on Haven two is not what we did the last four years. It's going to, Oh, for sure. I think
+
+Liam Gallacher  13:50:05
+the bad thing that that's that's fine, you know, and that's fine. I think at the end of the day, Joe, like, I think what I'd be doing if I was, you is I would be, like, putting that deck together and figuring out exactly what the thesis is, and figuring out exactly
+
+Joseph Guzel  13:50:17
+like a day at a time. Yeah, you know, it's like, I think HBC is
+
+Liam Gallacher  13:50:27
+actually pretty good. I think that's a pretty good name. I
+
+Joseph Guzel  13:50:30
+liked that name. Is it? I was actually too close to HPV. That's where we always end up with. Our names, get clean, and I it ends up being aids, HPV, HIV, the Okay. So, so, so we am, like, like, all semantics aside, like you're just saying, like, Joe, get your shit together and get the deck so we can help you out fast. Because we, we are in. What I'm hearing is like, because McLean can't get you anything from coop now, yeah, that is exactly what I'm saying. That's exactly what you're saying now, okay, so let's pause right there, right. Okay, because I get it right. Now, what is like the next best thing, like, Okay, we know that that our boy is figuring it out still, and I'm so supportive, and I want to help him figure it out, like, whether it's today, tomorrow, when he has time to breathe, we all got a lot going on me, and I know he's sympathetic and empathetic of me and my wife and ash and getting me to a place where I'm not getting alopecia from stress, like so your hair is good. Dude, that dude. Thank you. Yeah,
+
+Liam Gallacher  13:51:42
+worry about your hair. Yeah, the great. So, so even get it firm and look even better. So,
+
+Joseph Guzel  13:51:48
+so thank you. Yeah, it's getting curlier. The i So is one like, what? And I'm not saying this is a suggestion, necessarily, but then my mind goes to, Hey, okay, that makes sense. So what if does? What is one option like the way that we craft McLean's narrative slash involvement slash equity in spin out, who's the guy that started Tiger again, global, Robinson. Robinson. Yeah, so, so is he Robinson? Then, instead of being Lee Fixel and I'm one of the other guys, and then No,
+
+Liam Gallacher  13:52:34
+it's no, no. I think, I think that there's no, I think that there's no narrative. It's
+
+Joseph Guzel  13:52:38
+like McLean's the great backer of things.
+
+McLain Southworth  13:52:44
+I think it's, there's formation eight or yeah, guys co founded it. They went different directions because they wanted me to invest in different things, right?
+
+Unknown Speaker  13:52:54
+Exactly? Yeah, and
+
+Liam Gallacher  13:52:57
+and McLean owns nothing of your GP. You own nothing of his GP. It's clean, and you move forward and it's all Kumbaya,
+
+Joseph Guzel  13:53:08
+okay, which I actually want him to own something in my GP. It just makes it if you
+
+Liam Gallacher  13:53:13
+want to, if you want to give them something in your GP, that's up to you. But I don't think there's any expectation of it.
+
+McLain Southworth  13:53:21
+I think I think for clarity of this, you know, I think this is this, this. This part is a conversation that can happen from now until whenever you do well,
+
+Joseph Guzel  13:53:30
+I want to be conscious of like, of the supplement, man, that's why I brought up like, New Mexico, for example. Like, if you were, because if you were planning on something, let's say with them, then like, should I not? Should we just focus on that for you and I not go to New Mexico,
+
+McLain Southworth  13:53:49
+you're welcome to fundraising New Mexico.
+
+Joseph Guzel  13:53:52
+Well, well, well, I, you know, you did all the work there over many years that, you know, so and so. Like, I want to make sure. I want to make sure, like, if it was the quantum thing that I brought up a while back, like, we should be strategic about it, because so that everybody can benefit and get what you need, and I get what I need, and I'm willing to play ball on it. That's all, yeah,
+
+McLain Southworth  13:54:13
+yeah. I just think that the only cop, well, the major complicating factor on this whole discussion is I just again, I just don't know what I'm thinking about options. I'm kind of coming about it at a very namaste way, like, you know, like, it's, it's, it's
+
+Joseph Guzel  13:54:34
+for what, exactly what I mean? Well, I think,
+
+Liam Gallacher  13:54:37
+what do you say? I think what he's saying, Joe is he's saying, he's like, I don't know what I want to do,
+
+Joseph Guzel  13:54:42
+yeah, I got you, yeah,
+
+Liam Gallacher  13:54:42
+I got you, yeah. And I don't have an answer for you right now, yeah. And when I figure it out, you'll be the first to know. Yeah,
+
+Joseph Guzel  13:54:53
+okay, yeah. Well, I mean, but is it like, is that? Why does that have to be so cryptic, though? I mean, like, is it
+
+Liam Gallacher  13:55:01
+he doesn't actually know what he wants to do, because I
+
+Joseph Guzel  13:55:06
+don't know I want to do shit. It's like, Whatever, man, like, I Okay, like, I want to do something. I just don't want to get fucked over, dude. Like, it's not gonna
+
+Liam Gallacher  13:55:18
+get over. Like, like, not everything, not like, it's not gonna you're not gonna get fucked over.
+
+Joseph Guzel  13:55:23
+Like, as I said, it's gonna be bent over for Old Joe Guzel, you know it's like, but I love you guys.
+
+Liam Gallacher  13:55:33
+The biggest thing, if I was in your situation, what I'd be doing is I'd figure out this operating agreement. We'll get on a call again, hopefully,
+
+Joseph Guzel  13:55:41
+yeah, well, on Sunday, like, I I'm committed to getting this done ASAP, by end of day tomorrow, or sign by Saturday, like, I think it's and then let's look at it and and hear it. I'm talking after three, and it's, I'm really clear about, like, the things that I need, because it's just like, that's what's gonna make everything. And I know, and I know the constraints. So like, let's just, like, instead of making this a back and forth about dancing around the same stuff till I, like, cave or something, because, like, I'm not going to, like, I'm not going to in the I'm not going to on, like, sorry, sorry, sorry. Clear, to be clear, to be clear. It's not about caving on, like, your ability to pull the trigger to get me 20% but like, like, let's like, you know, little creativity here, guys, like, I love you. Like, like, please make this easy on all of us. We can be done with this shit. And I know,
+
+Liam Gallacher  13:56:46
+like, look, I like, I've been thinking about this a lot, right? Like, like, no one, no one can guarantee anybody anything when it comes to raising money, like period full stop, it's fucking hard. My brother finds it hard. Everybody finds
+
+Joseph Guzel  13:57:02
+it hard, right? Tons. I know like, I get it. It's not my photo
+
+Liam Gallacher  13:57:06
+and so and so and so and so. What I'm saying is, I think that we're all empathetic for that, and hence why I'm telling you, like you should go start this process sooner rather than later, like you should be game playing,
+
+Joseph Guzel  13:57:18
+right? What to do? Okay? So, so, right? So what would be great on that? Because that's what I would have to do anyways, right? So we talked about summering Everest again, like, I, what I what I need to know. So now I know a couple things, right? I know that, like, we're all cool. I know that you guys want to help and and what I'm hearing, though, is like, so you should go do all that crazy ass work, Joe, because it's really hard, like, Sooners, because it's a lot of work. That's not Yes, what is going to work here, like, for things like my hard earned thesis and attribution and all the work that I'm still going to have to do on Haven want to make us all money, like with the Hamza and stuff, and the next thing actually helps make our thing more money. Because, like, that's what is going to happen. I do, like, whatever happens. I compound on that thesis. I have these get richer on the thing, and yet I'm still doing all the work, like the mule. I cool, cool.
+
+Liam Gallacher  13:58:18
+I think, I think, I think Joe, I think essentially, what
+
+Joseph Guzel  13:58:20
+you like that mean, it's not, it's there's no dancing around that, right? It's just like, so, so, can you guys think of something I'm not, I'm not being prescriptive. I because I don't know the answer. Like, can you think of something that you can do to bridge that gap that is a this is 15 years of stuff that I'm going to be bringing back to the value here for all of us that McLean and I both have half of even if he decides to go be a doctor, right? I understand so and all I'm asking is for for what I want, what I wanted, what I was supposed to have, like, this week, which was, like, a first close on a fund that, like, puts me on a path to start a family and be able to be like, yeah, yeah. And I don't have unlimited access to capital, but, and I apparently it's perceived that I have unlimited access to work or no. The point I'm
+
+Liam Gallacher  13:59:12
+trying to make is, dude, is that, like, even my brother, like, it's a, it's like, pulling fucking teeth for him to, like, get money, right? Like, even for my family, my mom was like, give me an investment committee memo, give me all this shit. It's like, it's not just, like, a simple 123, it's
+
+Joseph Guzel  13:59:26
+like, I throw out 75 like, 75 did not foot to the thesis that I knew would be needed, like, that amount to be needed to, like,
+
+Liam Gallacher  13:59:34
+as, I'm really sorry, I gotta call three.
+
+Joseph Guzel  13:59:35
+I gotta jump, yeah, well, let's jump in a sec. Yeah, hey buddy, what do you, I mean, what do you think? Like, it's, it's,
+
+McLain Southworth  13:59:41
+I guess I'm, I'm, uh, we should probably we have to hop on. Let
+
+Joseph Guzel  13:59:45
+me send you this thing. I'm sorry,
+
+McLain Southworth  13:59:47
+sensitive right now. Yeah, and let's
+
+Joseph Guzel  13:59:49
+take a bit on that link. What do you what did you have you chatted?
+
+McLain Southworth  13:59:53
+Well, I chatted with him five days, sorry, three days ago. What do you think that's great? I got the I got the memo. I've got some questions on it. Yeah, let
+
+Joseph Guzel  14:00:04
+me get you. I have the really robust one. I this is going through this process with him. First off, I he's, he's really great. I've spent way too much time with him. He he's, he's, he's a lot of energy, even for me, but he going through this process here of like the the thesis and Adam and Christina were both a huge part of this, also, because it all ties in and and all the way back to, you know, to this conversation we just had. Let me give you this right now. I'll tell them, we'll be like, five minutes. Like, hold on. Let me just tell them five minutes. McLean and I are McLean, and I will be 10 minutes late. We'll be 10 minutes late. Sorry about that, buddy. Let me send you this. How's everything? When's when's the baby coming? Is it I thought, I keep thinking, you're going to be in the hospital, and then this whole thing's going to
+
+McLain Southworth  14:01:09
+go to shit. Yeah, so, so so we're probably going to be inducing second half of this month. It's technically due to July 3, but long story, I think it's going to be induced slightly early. Yeah.
+
+Joseph Guzel  14:01:23
+Are you excited?
+
+McLain Southworth  14:01:25
+Yeah, super excited. But it's just going to be exhausting. It's going to be fucking madhouse. I know. I mean, it can't
+
+Joseph Guzel  14:01:30
+be as it won't you be you're you seem entirely different than last time, if it's any consolation. Like, even though I haven't seen you much, like, even in the beginning last time, you guys were like, nuts. Like, what I like, it was like, everything was crazy. Everything was existential. Christina's screaming. Is she doing okay? Yeah,
+
+McLain Southworth  14:01:53
+she's, she's doing fine. She's just ready to get this kid out of her Yeah,
+
+Joseph Guzel  14:01:57
+it's, I just sent you the memo. So let me Thanks for
+
+Joseph Guzel  14:02:12
+engaging on this stuff, by the way.
+
+McLain Southworth  14:02:14
+Yeah, you know, I just, I just wanted to be, yeah, man,
+
+Joseph Guzel  14:02:18
+it's, look, it's, you know, I still love you dude, like, you know, it's, and we, you know, I'm glad. I'm glad, at least we did a good job with
+
+McLain Southworth  14:02:27
+this, yeah, yeah. I think, I mean, I think it's, I just know we don't suck, yeah, yeah. I think ultimately, it's just, you know, we should have had a, we had a should have had a more, you know, robust operating agreement from the beginning.
+
+Joseph Guzel  14:02:42
+I mean, yeah. I mean our it got us pretty far, like it's, it's, it was, and we, when you consider also how much our lives changed, both of us and like, our lives are completely different now, like, operationally and then we're both, like, not in them, day to day. So, like, it's also it's just not healthy for us like this. It's the in person. If we were in person, the maybe would have been better, because we could just kind of get out, get away from our bubbles here too. That don't help either of us. I've got it just, I've got, I feel like you and 23 with the bubble and,
+
+McLain Southworth  14:03:25
+yeah, I think it helps, you know, because here you're kind of just surrounded by PCs all day, right?
+
+Joseph Guzel  14:03:33
+Yeah. For you, you're, you're surrounded by, actually work all day and, and so I'm, that's a good point, yeah, and then your wife's in the same industry, and then you're going to the office with your sister and blah, blah, blah. But then for me, it's like, I'm, like, it makes you, it makes you feel just siloed and alone and unsupported. Yeah? We should, yeah, we should. If we would have just done something like force, like, a week, a month, or something, maybe that would have helped. But I don't know, we're not those guys, yeah, we're just not those guys,
+
+McLain Southworth  14:04:06
+yeah, I think we, I think we could have done it too. It's just we would have, you know, we had to, you have to, you actually have to structure it, right?
+
+Joseph Guzel  14:04:17
+Yeah, well, we, you know, we, we try, you know, there was times where you tried there. Then there's times where I tried, and then we were always just getting mad at each other for, like, telling each other what to do, and we didn't get anywhere with it. It's, it was the thing that call where we were screaming at each other. The one thing that continued to stand that stood out for me from that that was like, at least illuminating as to this issue, is the it would have been good to have a kumbaya on when we started back in 21 of like, what it's just the what are we building? Are we building a company? Are we because it's, it's like, or we doing something else where it's like, I always felt like we were trying to build a company. And so I felt like I my role was to do this just like a CTO at Hamza, you know, doesn't do what Adam does, right? And so like you do, that's why I was always like, I think you're, you know, you lead the charge with this or that, or, you know, because it's like in service to build the machine, you know, the N of one. And then it felt like I was like, Okay, I guess he did see this as, perhaps, like we were all supposed to be doing the full stack thing, more like Founders Fund or benchmark or something, that was a disconnect as a huge disconnect, because it's it just totally and if that's the case, it just answers, like, everything that we did wrong? Yeah.
+
+McLain Southworth  14:05:54
+Well, you know, it's not like, I do agree being, like, different roles and responsibilities and things like that, but I think, you know, making sure that we have mutual decision on, like, the big things, the support of our business, right,
+
+Joseph Guzel  14:06:09
+is, is, yeah, I know what you I know why you're always feeling like that wasn't the case, and it was because of the way I interpreted. Is that point right there, which was like, if I was running with, like, okay, like, I have to do this. And so anytime where other stuff came in, especially as the portfolio grew, because I was always happy to take us there this, knowing that what I would say all the time, you probably thought I was full of shit. But look, it came true where I was like, I'm right about this, like, I'm, I'm right about this, like, I'm, you know, you worked with me before. I wasn't Mr. Nostradamus thesis stuff. I because we were in this application layer and, like, I didn't start getting nerdy about this stuff until about 2020, right, where I was living with all the guys, and, you know, I was, I was, we were getting intellectual about investing. And you're living with, you know, Jake Garfield, who's in capital markets. You have Arsham in there too, who's growth agents. Just like, it was so refreshing from the fucking cross link thing that crosslink became, which was just bullshit. They don't have intellectual discussions about investing. I like, I like that. That's what I part of the reason I do this. I know it's part of the reason you do it. And you're fucking smart, like, and so when we would do that was when I was in heaven here a few times, you know, but like, and then, and then it was the partner meeting. Like, like, even if we had partner meetings, I like that, that would have helped. Like, we didn't hold ourselves to structure like that operationally, because we didn't that. We didn't treat like a company. Or, you know, I don't want to say that you didn't treat it like a company, because I said, when you got anywhere, I see you talk about anything you're fucking you and I are good together like that. And we make a good we make a good combo on what it's kind of like. It's kind of like guys who are, like, in the Navy SEALs together where, like, they don't like each other, but if they don't like each other, they would, because I like you, but you know, it's like you wouldn't hang out with them, or, like, having babysit your kids, but like, you want them on the on the war, on the field of battle, or whatever. Yeah, you know, I mean, yeah, yeah. You want them on your shit throw it out. Yeah, it's like, I would want you covering my six on, like, that stuff, because I know that you know what I'm going to anticipate and this and that, like, that's why I underwrote. Like, that's why I sincerely wanted to work with you. It had nothing ever to do with your family. It really didn't. I just I knew that, like, like, it's the one two punch and like, now, at the stage of the things are at, like, regardless of what you might be wanting to do, and stuff like, I know you'll keep you know, we can make so much money from this stuff, man, like, from like, really, like, and something that's yours and something that's mine, and something that's eyeless and something that's, you know, Joe Junior's, or whatever the hell they make me call it, is a good body of work, like, like that, the business that we built is a good business. So that that's why I was like, harping on that last time, whereas I was just like, forget the fucking deals. Like we built a good machine. And so I was like, I was like, Look at this. Why you got to give this Faberge egg away? Now, you know what? I mean, yeah,
+
+McLain Southworth  14:09:39
+but it's not, I mean, it's, it's not like we have IP, right?
+
+Joseph Guzel  14:09:45
+Yeah, no, yeah, it's,
+
+McLain Southworth  14:09:50
+we can we talk about this afterwards? Just one quick thing on this. So, um, I'm just curious about the total round size that we defined here. Yeah, I was 750 to a million. Yeah, I was
+
+Joseph Guzel  14:10:06
+thinking, frankly, it was 500 right? I think 750 is the right number. So I was, I, if you, if you, you take some time and read it like I that hefty amount of analysis into this one, because I didn't want to repeat the same mistakes as as cast, yeah, especially with where we're at in the fund. And so it was, it was a thoughtful way to do this and and even I need to put more thought into the reserves thing relative to, and I've told Jason, like, priority 12345, is like, you need to get an answer, and we need to get an answer on like, what leverage looks like for this? And we've, we, I've been on calls every day about this, because
+
+McLain Southworth  14:10:49
+he should, he should also, before we commit to anything, actually figure out if you can get debt financing for this, right? Yeah,
+
+Joseph Guzel  14:10:55
+he definitely can. I mean, like, his, his, his contacts are actually fucking ridiculous. It's kind of like with you, but, like, it's all the it's all those people. It's like the Howard Marks, kind of people. And these, these are a lot cheaper than and I'll follow up with more stuff. Like, it's this thing was 100% me pretty much, right? Like, Jason's, like, Jason's coming in. It's the founder market fit, right? And, and, and, boy is it founder market fit, like, for like, He's Mr. Mid market in a way that, like Matt and Joey and the guys were for for vertical feature sets, right? But they don't. They don't know anything about accounting. They've never, you know. They've met three CPAs their whole life, all that stuff. Like Jason is the operating version of like my cousin Jacob, meets Brandon dear meets like, you know, pick Adams a bar like, but just younger, and he knows how to get to these customers. And Christina and Adam and I and coalesced around because they're very much involved here. And this is where it gets interesting. Is, it is? It is, is the the end of one being product liability as the hypothesis that we think is the one to do. I mean, when you think about Jason and his dad and what they did, and selling companies to Warren and Charlie that that they were like, toxic, so drinks for that kids would drink like, so, so when we were we were going down DNO insurance, right where we're, like, there's like, no claims in DNO insurance, that those must be really high yielding bonds that, you know, tradfi, we could sell to tradfi now, through our distribution that we developed, you know, now with Hamza there, This is, this is why this is so great with with Hamza there now, and we we have an asymmetric advantage on the rate of cloud penetration and defense serve, and when that's going to happen, more or less, but also when the folks who are on the other side of the stack, which are the Berkshires and the REITs and these guys, when they're going to adopt to read write based on that, it was always going to be the settlement and the clearing and the transactions first, just at the same pace as stripe bottoms up, right, and then those guys will come second once everything's because, because they're all about stabilization and they need latency. Because they need latency for Berkshire to work right. Reinsurance only works when to avoid catastrophic right then, and we squeeze the latency. And then his stepmom is it? Greg Abel is going to be an advisor to this, like it's so I'm so excited, right? Because it's going to be so good. It means Homs, it got even better. Then we know exactly when to go to them, because they're going to look at JP Morgan and say, you don't get fired for picking IBM. What are they using? But Adam in me and Christina, right? Which you chatted with her recently. She probably ran through some of this, right? This started with about a month ago,
+
+McLain Southworth  14:14:22
+so it seems like they haven't actually, really, they've only chatted that once, which is why I keep encouraging Jason to, like, read, reach out to her,
+
+Joseph Guzel  14:14:29
+Oh, we spent a lot of time with her the last couple of days. Like, oh yeah, she's, she's all over this dock, right? So let's
+
+McLain Southworth  14:14:37
+and we're 15 minutes late. Let's hop into it, yeah? It's just, she's
+
+Joseph Guzel  14:14:42
+the pipe. She's striped, man. So like, she is the distribution. So anything Christina says to do, it's kind of like your life, anything Christina says to do or to go buy, in terms of what she tells us, what the risk is. The same way that stripe doesn't care what your dollar is. They you know, they care that you bring it to them. And so product liability insurance is a very interesting category that he knows well we can get to those nitty gritty customers through cast is another thing. Cast has these guys already. So cast becomes like how Clyde was, which is embedded, and then, and then we could, and then distribution is taken care of. So we go do an mga or broker roll up, and then it's, it's a, you know, risk is now productizable, yeah. So it's an unlimited Tam, and it's kind of like Google Maps, where you got to go fast and try to get everything you could do whole funds just on this, because then you get the data mode anyways.
+
+McLain Southworth  14:15:43
+Yeah, no, I get, let's just hold off on kind of giving them any sort of definitive indication on financing and stuff like that. But why? Because we, again, we haven't. We need to figure out how much money we're going to deploy. We have to
+
+Joseph Guzel  14:16:03
+be, yeah, I was thinking about that. So, because, because, yeah, putting that stuff aside, it's like that, that's, that's like, super unfair to him, right? Because, especially when you think about all the work that he think about all the work
+
+McLain Southworth  14:16:14
+that he's done on we should agree on that stuff before we
+
+Joseph Guzel  14:16:19
+what I what I'm not sure about, I think a fair thing here McLean, because it's, it's to not do this to the founder, right? Is because he's, he's been in our whole shit here. He's got a haven VC email address. Yeah, is just do, let's just focus on the 750 K thing right now, and then we'll figure it out on the, on the, on the paper in here with the piece. Because it's just he's because we've been working on this for many months. Yeah, I know. But if you remember kind of the and you told him that you wanted to do
+
+McLain Southworth  14:16:55
+it, the dialog was always like, let's bring you on as an EIR. But
+
+Joseph Guzel  14:16:59
+I know you told him that you were, you were stoked about it. I said I was stoked about it, but I said that Bucha and I had to figure our stuff out. I just don't think that's it's like, why are we Yeah,
+
+McLain Southworth  14:17:10
+okay, but at the same time, like we own part of it, both of us, yeah, but, but we brought him on as an EIR, and the way that you initially sold it to me was, oh, you know, let's bring him on as an ER, and we decide if you want to fund it or not, right? And so there's never really a guarantee for him that he was going to get money from us anyway. So we haven't done him a disservice. We've definitely done a disservice. I like, I like, I like the company. But let's, let's not talk about funding right now. Let's just get an
+
+Joseph Guzel  14:17:40
+update on on I don't see any reason why we shouldn't fund him tomorrow. Like
+
+McLain Southworth  14:17:44
+Joe, like I said, if we have like, but
+
+Joseph Guzel  14:17:49
+what's good? But what's a good reason not to do the business we still are at Haven like we what if we don't sign anything, fuck it like I don't read anything, I don't read anything, then no attribution, no nothing, whatever. Like, what? Okay, we got to run the business. We're not
+
+McLain Southworth  14:18:01
+out. Okay, I know. But Joe, first of all, we don't know how much capital we have. Yeah, we do a few of our LPS that want us to be operationally in sync before
+
+Joseph Guzel  14:18:10
+we this will not make me operationally and say, if we fuck over Jason like this, after I do
+
+McLain Southworth  14:18:17
+that's that's what I'm saying. That's why we shouldn't guarantee
+
+Joseph Guzel  14:18:19
+I did, but I did all this work. I will not move forward in a process if we fuck over Jason Rush now, you know it's not fair. I'm not gonna. I don't we. There's no reason why, unless, unless you have a good business reason why? Hold on. Hold on. I'm not being this isn't a crazy thing. Man,
+
+McLain Southworth  14:18:39
+Joe, from the very beginning, beginning, I said we have to be an operation and
+
+Joseph Guzel  14:18:43
+look in from an eye. There's no way we'll ever be an operational sink, ever if you do this right now. Man, it's not a
+
+Unknown Speaker  14:18:51
+good idea. This is gonna fuck
+
+Joseph Guzel  14:18:53
+up ever all this goodwill we just got, Joe, I'm saying,
+
+McLain Southworth  14:18:56
+Why are we trying to offer him money right now? We have to, let's get he has been working
+
+Joseph Guzel  14:19:01
+on this for so many months. He works with all our portfolio companies more than we have in the last few months. Go
+
+McLain Southworth  14:19:08
+Joe. Joe McClain
+
+Joseph Guzel  14:19:09
+McLean, give
+
+McLain Southworth  14:19:13
+him money. I didn't realize that that was he
+
+Joseph Guzel  14:19:15
+has been fucking working towards a goddamn incubation check that is totally reasonable, that was on the table on the first mediation session, but it has nothing to do with mediation side. It's about the
+
+McLain Southworth  14:19:26
+business Joe. Joe, is that the point of this phone call? But
+
+Joseph Guzel  14:19:30
+why? But why are you taking it here like there's no reason to do I
+
+McLain Southworth  14:19:35
+told you from the very beginning, McClain, we will never
+
+Joseph Guzel  14:19:38
+get to an agreement. We will never get to an agreement ever, on the other stuff, ever, if you play this like this right now, this is not the way I'm telling you. Why can't this wait until we can. We can. We don't have to agree on the reserves thing. But you know, it's reasonable and you cannot, okay, Joe, 500k then I don't care. But like making a safe incubation investment, staring at forever,
+
+McLain Southworth  14:20:06
+I am not getting on a phone call and committing to giving him money today, it's just not going
+
+Joseph Guzel  14:20:11
+to happen. Well, what do you what's the holdup been then? I just explained it to you. But even before that, you know, he was incubating with us, like, what's okay,
+
+McLain Southworth  14:20:20
+Joe, from the very beginning, you said, Don't
+
+Joseph Guzel  14:20:23
+go back to the very beginning of what I said, what you did, what what has happened is he's been working with us for a long time. He has a haven PC, email address, you have 5% of the business. So what's the problem? Okay, okay, Joe, because
+
+McLain Southworth  14:20:36
+there's a good chunk of our LPS that do not want us to make that do name
+
+Joseph Guzel  14:20:41
+these LPs. Dude, what name them? Who are the LPS? You know who one of them is?
+
+McLain Southworth  14:20:47
+I'm not going to name the other two. Dude,
+
+Joseph Guzel  14:20:50
+I don't. I listen. I just don't care like, like about that, because I know that it's just bullshit, and it's no reason to do this. So please don't be difficult. Please go.
+
+McLain Southworth  14:21:00
+I'm not going to get on a phone call and commit somebody from the 50k not until we get all the shit figured
+
+Joseph Guzel  14:21:04
+out. Well, I'm not going to if that we're going to move forward on something that you told him already. You told
+
+McLain Southworth  14:21:14
+him, No, no, I told him. I told him that we have to operationally get things figured out before he
+
+Joseph Guzel  14:21:21
+said, I want to do it. I would love to do this. That's what you told him.
+
+McLain Southworth  14:21:26
+I told him specifically that we can only, I don't even know if we can make an investment, because we have to
+
+Joseph Guzel  14:21:34
+be standing in the way here, like that's not a good way to frame me. That's a reputational I'm just gonna get a football. Listen. McClain, okay. I
+
+Joseph Guzel  14:22:07
+Are we doing? Hey, buddy, hey, one sec, sorry. Sorry. We're so late. No
+
+Speaker 3  14:22:12
+worries. I'm gonna add McLean, right? now I'm gonna Adam, what all good. Let me see. Hello Hello, it is good. It's good to see you guys both on a zoom. Are you in California.
