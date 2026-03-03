@@ -1,0 +1,566 @@
+Alicia Keyes  12:53:31
+Um, with Adrian Fenty. And we had the Energy Commission come to me and say, like, Hey, I've got a million bucks.
+
+Joseph Guzel  12:53:38
+I heard Adrian was, was a was a hit. Such a guy. I mean, he's just, he's is
+
+Speaker 1  12:53:53
+most of the time, and it was just like, literally out of nowhere, like, he got triggered on education, and he's like, He's almost like, yelling at the people in the audience. He's like, there's been a way economic development. If you guys have shitty education in the state, you guys have the worst education of all the states.
+
+Joseph Guzel  12:54:10
+McClain. McClain told me I was I was like, I was like, Please don't tell me. He grabbed the microphone and started walking around. Basically,
+
+Alicia Keyes  12:54:18
+yeah, and it was good. I think it was good. He was fired up. Yeah, yeah.
+
+Joseph Guzel  12:54:23
+So, so, so the So, if
+
+Speaker 1  12:54:29
+I told you this, you know. So basically, what's going on here is, is all the all the agencies that are all the companies are not agencies, companies that might affect water waste, your families of the waste management business, water waste, energy and air, they have to report the data of how they, how they might be in influencing those
+
+Joseph Guzel  12:54:58
+things. It's right, yeah, it's a big it's a right now.
+
+Speaker 1  12:55:01
+And correct me if I'm wrong. Alicia, right now, keep on going. Yeah, you're doing well right now. They, they literally create these one off APIs. They're like, here's our data and here's the API, or here's here's the API for you to access her data. And the vast majority of the situations, the departments that get this information, like the government departments that get this information, they're like, We don't know really how to access it or and they just don't necessarily look at it right? It's
+
+Joseph Guzel  12:55:28
+interesting that you say that, because it's, I was literally just talking with my father in law about this when we the other night, when we dropped him off to the airport, the they, like, most of them do it, just it manually, like, yeah, so for that, they're just trying to be compliant,
+
+Alicia Keyes  12:55:46
+right? Exactly, exactly, and
+
+Speaker 1  12:55:49
+so and so in the process. And it was a secretary, Kenny, who's in charge of the Secretary of Environment, or some shit like that, who is kind of, like pushing her to do something like this in the process of them, like looking through the data. This is them creating their not even their beta product, their alpha as they're like, literally going through the data to kind of pour it into this platform, which will make it super easy for any of the agencies that need to look at this information. Kind of they can look at something very holistically and see where it's trending and everything like that. And the process of doing this uncovered that the water company was putting arsenic,
+
+Alicia Keyes  12:56:30
+well, half high levels. They don't put the arsenic in. It's like, they, yeah, yeah, out the
+
+Speaker 1  12:56:34
+arsenic. So they're poisoning basically, they basically are allowing this poison water to go into the water I brush with non forests
+
+Joseph Guzel  12:56:42
+based, you're talking the right guy, yeah,
+
+Speaker 1  12:56:47
+as they're building literally, the data set. And they're like, what's what's happening? So now probably someone's gonna go to jail, and the EPA is now investigating the water company because of Alicia's
+
+Joseph Guzel  12:57:01
+data. I mean, it's, I love that question. Okay, data. So data is interesting. What's more interesting is how it's stored. So, okay, my, my in laws, they have the, it's like the third or fourth or fifth largest recycler, non unionized on the West Coast, Glendale. Armenians. I'm Armenian now. And, you know, they do Pasadena Del Monte, the Long Beach port and, you know, everything, a lot of the studios as well, actually like like, because you can really only make money in commercial in it, I guess. So they fill out their compliance stuff. You know, to Gavin. It's probably 50 pages a day. And then where does it go? Or in New Mexico, right? Where does it go? Right?
+
+Alicia Keyes  12:57:53
+Yeah, it goes to the environment department. That's actually public record, but it's in dark data, because they're not digitized yet dark.
+
+Joseph Guzel  12:58:01
+Oh so dark data. It's quite literally offline data. It's not but
+
+Alicia Keyes  12:58:05
+they need to take it on, and they're being paid by the EPA to take it on, like $10,000 a year by the EPA, and have they haven't for the past few years, because basically, all of this needs to come online and be monitored
+
+Joseph Guzel  12:58:19
+in any Oracle Database, nothing. Um,
+
+Alicia Keyes  12:58:24
+well, the EPA wants a like a API forward
+
+Joseph Guzel  12:58:28
+approach, yeah, but, but that's, but that's, that's kind of like if the three of us were going to open a Subway franchise. It's those data feeds. They're not really APIs, right? Like, like an API is, it's, it's auto read, so anytime you provision remotely, you're going to get exactly what's in the database real time, yeah,
+
+Unknown Speaker  12:58:54
+so they're providing the
+
+Joseph Guzel  12:58:56
+data. Yeah, Alicia is the one building the API. That's great, yeah, so you'll own the
+
+Alicia Keyes  12:59:00
+data. We build the API, but then we have the SAS product, which using AI. So my CTO is from Los Alamos National Labs, and he has a specialty in AI and machine learning. And basically he has created a patent which allows you to multi query and to bring down multiple sets of data onto one mobile device for if decision makers. And that's the key is, because
+
+Joseph Guzel  12:59:25
+it's a provisioned patent, like it's Oh, interesting. Oh, so he's had that for a while then,
+
+Alicia Keyes  12:59:31
+I mean, I know, we just figured it. We just figured it out. The patent on
+
+Joseph Guzel  12:59:35
+my wall right here, that's for getting money out of the ATM with Bluetooth, that was my idea from and now Intuit owns it. It says so, so it's like the patent it that didn't stop, you know, Intuit didn't enforce that patent. Clearly, nobody's paying them, and certainly not me.
+
+Alicia Keyes  12:59:54
+But you know what? It allows us to do, sole source with governments and get these contracts
+
+Joseph Guzel  12:59:58
+done. Governments, like hearing things like patents, but, yeah, but the tech to do this, it's it's solved. So it's just distribution, which you have a foothold into. Like, do you remember mint.com
+
+Alicia Keyes  13:00:12
+mint.com No, what did they do? What did they do? I remember the name, but I never like.
+
+Joseph Guzel  13:00:16
+It was like the first it was like Quicken for the Gen X in millennial generation. Intuit acquired them right around the time that I joined. And I mean, think about it as 2009 the iPhone came out in 2008 the App Store came out in 2009 I think Google bought Android in 2010 so we need the same mobile banking penetration 2008 on Android. Oh, there you go. And then there was no app store told nine when I joined Intuit. So the there was no memory get two statements for your debiting credit. Oh, yeah, yeah, remember that so, so mint was, like, incredibly provocative, because it was all mobile, and what, what it would do is pull in your banking feed from, you know, from Bank of America or whatever, and then you would create budgets, and it would give you alerts that you're spending too much, and try to cross out young credit cards. But the real point is the back end. So that was pre plaid. That was maybe, I think plaid probably started in 2013 and there was this company called yode, y, O, D, L, E, and they were like one of the pioneers with respect to what we call Mechanical Turk and OCR, which is optical character read or something like that. I don't know what it quite stands for. Where you would pour it in, like this is if we got the Subway franchise, same thing. It takes a picture of the database at a point in time, and then whatever they could get. Basically, if the database isn't updated because it's not read write, then you know, CRM is garbage in, garbage out, right? It's as good as what you put into it. And then somebody in India basically, would take the characters and then it so it had this. It had the feeling of an API, but it wasn't really an API. Oh, interesting. So, like, like, your your banking feed would actually be three days behind what it actually was. But you're, you're going from paper statement to a three day lag. That's like a zillion X improvement, right? Today, it wouldn't cut it,
+
+Alicia Keyes  13:02:25
+right? Yeah. It's got to be real time, yeah.
+
+Joseph Guzel  13:02:29
+So that's the world that you're dealing with, right? So you don't need to. It's not a tough technical issue. It's a district,
+
+Alicia Keyes  13:02:36
+yeah, and APIs have been around forever. So I think the real like the special sauce is the patent. The special sauce is my relationships to get this done and to get the clients. And I think the product has to be beautiful and usable. Because here's the deal, everybody is making products for the government to use and to simplify. They don't have their APIs done yet, and the only ones that are being paid for right now are the environment departments, yes,
+
+Joseph Guzel  13:03:05
+but the difference is the your like, everything that's going in there is about utility payments, right? Like, but compliance is one thing. Are they compliant? But, but the payment speeds? So you met Adam zabar earlier this year, right, when we did converge ABQ. And so Adam,
+
+Speaker 1  13:03:29
+hold on. But are you doing payments? You're not doing utility.
+
+Joseph Guzel  13:03:33
+Well, the data we're not doing data is predicated on payments, isn't it? And usage?
+
+Alicia Keyes  13:03:39
+No. So this is no. I mean, eventually we could do permits for them and that type of thing, which would be predicated on that. But no, what we're taking is their open data sets on the air, water and waste and like, how clean it is, and we're getting it to the feds, and we're getting from the counties to the states and the states to the feds. So there
+
+Speaker 1  13:04:02
+was, they're required to give this data to the various, yeah, the EPA and the various departments of the state level, the federal level, right? They're required to, if they affect any of those four things,
+
+Alicia Keyes  13:04:17
+and they're being paid to get it online right now and develop to
+
+Joseph Guzel  13:04:20
+report the utility payments from from citizens.
+
+Alicia Keyes  13:04:26
+Um, well, interestingly enough, so I was just out with the electric utility last night if they didn't, but I well, so the electric utility has just been asked to do that, and they've just been asked to not send meter people around and to do the direct API transfer. And so PNM just asked us to do energy last night. And I'm like, wow, okay, it's, it's just that everything is like, it's all this, this industrial revolution and this digital infrastructure for the governments is all happening now. They
+
+Joseph Guzel  13:04:57
+have to tie it. You have to tie it to the payment, because that's results. At the end of the day. Their job is to provide property utilities to taxpayers, right?
+
+Alicia Keyes  13:05:05
+For energy? Yes, absolutely.
+
+Unknown Speaker  13:05:09
+Remember, energy is just one part of it. Yeah?
+
+Joseph Guzel  13:05:11
+For sure. For sure. Yeah, it's, it's, but it's all of it has to be tied back to the payment. I'm not surprised that they don't track it. It's more like confirming how shitty all these organizations are. I'm quite the way
+
+Alicia Keyes  13:05:22
+well, and they will, they will eventually all be put on it, and they want us to potentially take their dark data on the blockchain.
+
+Joseph Guzel  13:05:29
+There you go. That's why I brought up Adam so so Hamza is by far our, our biggest breakout. It might be the biggest breakout of McLean and my career kind of the culmination of a life and financial technology. But the, well, hold on, we don't know yet. Knock on wood. Knock on wood. But it's like what they're doing and and what they're eminently doing in weeks is what the two of us all like, really, all of us, we weren't in the right positions to really see the last paradigm through, you know, with respect to infrastructure and so, like, everything's moving to read write Hamza is so Adam was a, You know, he's a lifelong entrepreneur. He did some basket back in the day, which was like a D to C Blue Apron type thing. And he's done a whole bunch of stuff. He's a Claremont McKenna guy, yeah, yeah. And then Hubert Wu, his co founder, built Alipay the He's the original architect and CTO for Alipay, Ali Express, so the OG Big Brother on read only, right? That runs the biggest, you know, population on the on the planet, of people, everything from the sandwiches they pay for to how they vote to how they pay for bus fare to how they pay their mortgage, right? Is all on Alipay. It's one app, and Hamza is basically, it's a horizontal blockchain that is a layer one blockchain, so it's not a layer two. Huber built, built it bespoke using Ethereum principles and account abstraction, and it allows for cloud penetration in the financial system, like, like, the big, dirty secret that nobody thinks about is that the banks never made it to the cloud. It just never happened. True, as good as your mobile application is for Chase or whatever, like, they're all great, they're wonderful applications, but the back office of the bank never made it to the cloud. Now AI was the forcing function for that. So how do you go from on premises, old servers, to AI? You see today Google's building nuclear reactors? Yeah,
+
+Alicia Keyes  13:07:44
+I saw that reactors are from Albuquerque, kyrosis, yeah. So
+
+Joseph Guzel  13:07:51
+how do you go to that without all the other shit, without Twilio, without, you know, all the mint dot coms and all this? Well, it's like copy, paste special values formulas in Excel on chain, and then he could the cloud guys can fix all the infrastructure and unhook it, you know, little by little. And then now you just took out all of the latency in the banking system, right? So the world's gonna look like JP Morgan's the size of alphabet today, in five years, right? And we'll look more like the Commonwealth with respect to our banks, not 500 but five because we don't need 500 right? And and then, the point being is all of that is is happening within weeks, like, like Hamza is taking all of worldwide Wealth Management corporate actions, clearing for read, write, for JP, Morgan on chain. Yeah, crazy. It makes a ton of sense, but it's kind of like when you were at Disney and I was at Intuit, when they say, like, social, mobile, local, global, remember that crap? Yep, yep, yep, it's because it's that it's so commoditized. It's just a horizontal database with cryptography, you know? So, so that's it. We're not going to talk about it in a couple years, right? We talked about crypto, just digital money, right? It takes a latency out of system. So, so so all of every Mexican, like, like, or New Mexican, sorry, like, like, you got your guys's stats, like, 20% or 30% of the populations under banked, and they're not actually under banked. They're they're using their phones. You guys aren't just, you guys are just not capturing that data. And that is self custody, that is your checking. That is digital money, yeah, so there's no latency, and so all so it's only natural that you guys should use a blockchain standard,
+
+Alicia Keyes  13:09:39
+right? Well, in LA is using it for the DMV. So now I think, you know, we're open, and the Environment Department is open, and I think it would definitely be, and Secretary Kennedy, like he's a leader, you know, he's gonna do the
+
+Speaker 1  13:09:52
+original, the original iteration was very much a blockchain centric. Was that for Hamza, no for Alicia's business, um,
+
+Alicia Keyes  13:10:03
+you know what? I incubated with orange, which all of them are crypto or blockchain. Um, but because it's the government, we're not, like, really forward on the on the crypto blockchain thing, because that scares them. New Mexico is, yeah, so it's like, they don't, they're open to us on the blockchain, but we're not, like, saying we're a blockchain company or, like, just
+
+Joseph Guzel  13:10:23
+an immutable record. So, like, if, if everything was correct with respect to whatever is in the database for a citizen's PII, or the water, you know, or whatever they're reporting, then that gets stamped onto the blockchain and there's a record of it, the government will save immeasurable costs, and then, and then. So you're talking about, like, building beautiful product coming from FinTech, like McLean and I it's, it's, sometimes it's like, it's a funny thing, especially having been a product manager, like Intuit build software, somebody lives in the account, mostly, right? But like, what's stripe or visa, or any of these? It's, uh, it will. They're they all have, they all do the same thing. They approve and disprove transactions, and they track fraud. Like, there isn't much of a product there. Or, like, Lending Club. How do you make a loan a product or insurance policy, a product? What's the product? What's the application? So don't overthink that, because they're going to ask you for modules, just like they are at the banks right now, asking us for everything, and you should say yes to everything. Okay, yeah, because you can build an app store of what are you calling it? By the way, Apple Luma. Apple Luma, that's good, man.
+
+Alicia Keyes  13:11:40
+Thank you.
+
+Joseph Guzel  13:11:41
+Thank you. Isn't that like a production studio? Is Apple Luma? Well, so
+
+Alicia Keyes  13:11:45
+it came because we're illuminating data, right? We're illuminating data for people. And then we knew it was going to have some kind of mobile capabilities. So we did app and then my grandfather was a horse whisperer. He's trained most of like New Mexico's big horses when he was alive. And so Appaloosa, why
+
+Joseph Guzel  13:12:07
+didn't you still turn out Studios instead of letting that other guy do a Sheridan?
+
+Alicia Keyes  13:12:13
+You he's a good guy, though
+
+Joseph Guzel  13:12:19
+he stole it. It's unbelievable. You could have done that.
+
+Alicia Keyes  13:12:23
+And I sent you the deck. I just sent it through on your email, so you've got it now, yeah, let
+
+Joseph Guzel  13:12:27
+me pull it up the you can build. You'll be able to build all these modules, you know, for each department, like so with the Queso Hamza, the the first market that we, that we landed was, was LATAM with Brazil, so like sub accounting, clearance and settlement from the Central Bank, which is just the biggest bank, is the central bank, It turns out, JP Morgan's our central bank, right? It's a it's it says request action from your end. By the way, you have to approve me for your deck. Oh, that's strange. The the So, so we're doing all of clearance settlement sub accounting for Brazil. They're kind of waiting for the US to just put the switch and then which would be on the same standard the US as Brazil and like Santander and Safra, like these massive banks, they asked us for everything, like they wanted us to build a module that lets them now now with read, write, you can do it. Track all of their loan, commercial loan, commercial real estate data for all of Latin America on readwrite, because with readwrite, it's no latency. You can actually track your loss ratios and stuff, right? And so you'll be able to do the same thing for these government departments, if you can tie the payment stuff in there. That's working, and
+
+Alicia Keyes  13:13:50
+I think we can, because they do have to do the and that's a really good note, and that's another revenue stream. Because right now, our revenue streams are getting their dark, dark data, building the APIs, our SaaS product, then we're put on three year contracts, and then if we are the digital infrastructure for the Environment Department, we're not going away. They're not going to do it again. So
+
+Joseph Guzel  13:14:14
+that's not where the value is going to. The value will occur initially in your distribution, but then it will be in in your data set. Like this is a samsara or Palantir kind of market, if you actually use your imagination, right?
+
+Alicia Keyes  13:14:28
+It is like Palantir. They do data that's confidential. Obviously, ours is all open data, yeah,
+
+Joseph Guzel  13:14:34
+but, but it's actually more like samsara. It's a little bit of both, like, but samsara is snowflake in this analogy, and that they don't snowflake doesn't have a cloud, would be more like Oracle, because they actually own and hold the data. And samsara is whole pitch, when those guys came out of Cisco after selling Meraki to them, was nothing to do with fleets, or that was page 17. I can show you the deck. It's nice going back to the ones that were like winners that you missed, and you kind of see the commonality was that it was an unbounded Tam, and it was just about getting offline data online, yeah, yeah. He doesn't have that data, Google, right? Microsoft, government, so it's Yeah,
+
+Alicia Keyes  13:15:25
+so the deck should be there. I just allowed y'all, both of you, how far getting my new Mercedes lease dropped off, so they might come in a second. Just the same thing I had before. Is that Mercedes 350 I love the size of it. It allows me to, like, go down to the border really fast. And yeah,
+
+Joseph Guzel  13:15:45
+that 2c classes before. I mean, I love those cars.
+
+Alicia Keyes  13:15:49
+Oh yeah. I love a Mercedes. I also have a Mercedes diesel van that I like go camping in, and I love that. It's
+
+Joseph Guzel  13:15:55
+still not letting me okay, I'm just gonna let me see
+
+Unknown Speaker  13:15:59
+verify. They just have to verify. So finally,
+
+Joseph Guzel  13:16:02
+there we go. Okay, I love the seahorse. I'm a big seahorse fan well,
+
+Alicia Keyes  13:16:09
+and I wanted an iconic brand, and this the hippocampus campus is where you store the data in your head, and that's actually the Latin word for seahorse. Oh,
+
+Joseph Guzel  13:16:23
+nice.
+
+Alicia Keyes  13:16:25
+Because all of the iconic brands, like of the 60s and 70s, they all had, you know, a bird in them, or an animal in them, or a panda in them, or, I just wanted an animal brand, yeah,
+
+Joseph Guzel  13:16:36
+we were gonna like ours is, it's the doors and Zanzibar. It's more about us than it is. I like our logo though. It's the doors in Tanzania. Oh, lovely, yeah, mixed with a little dune. Yeah? I'm down. I mean, honestly,
+
+Speaker 1  13:16:59
+so did you fire your your ex boyfriend? My
+
+Alicia Keyes  13:17:03
+ex boyfriend fired me? No, it was, it was a little it was a little bit, y'all, I'm gonna say it okay. He was 18 years younger than me. It was a dog.
+
+Unknown Speaker  13:17:21
+Yes,
+
+Alicia Keyes  13:17:24
+it was a little bit of like, he was so lovely. He was like, just such as this lovely spark. But ultimately, I think, you know, age isn't everything, but experiences and and, like, I didn't realize at our age, like, We're experienced, y'all and somebody is working around me that's like, not trying hard and not experienced. I kind of turn a little mean. It's kind of fine.
+
+Joseph Guzel  13:17:50
+Yeah, the it's, I told, I told, I tell my wife all the time if she was even six months younger. This, this isn't gonna work. Like, I'm like an old curmudgeon at, you know, 36 it's, I
+
+Alicia Keyes  13:18:08
+go to bed at 930 I'm up at 545. Like, no, no. 118 years younger than me wants to be with me right now, like McClain
+
+Joseph Guzel  13:18:15
+feels like he's working with a 60 year old. Basically, something happened to me. I had a rough life, but yeah, 18 years fuck that. He's not. It's
+
+Alicia Keyes  13:18:25
+a lot. It's a lot. And
+
+Unknown Speaker  13:18:28
+working on the company with her, though
+
+Alicia Keyes  13:18:30
+I have a CTO and and then I also have a product manager, and then I'm just bringing in the CFO, who's an accountant. How's
+
+Joseph Guzel  13:18:37
+he is this guy still, he is still working on the company.
+
+Alicia Keyes  13:18:41
+No, no, no. We legally, like,
+
+Joseph Guzel  13:18:45
+yeah, because if not, then we can help you do that's kind of my No.
+
+Alicia Keyes  13:18:48
+Ben and Don came down like, they were, like, if this guy bucks with us, and luckily, he just signed the paperwork and was
+
+Joseph Guzel  13:18:55
+gone. Is he in New Mexico?
+
+Alicia Keyes  13:18:56
+I think he is.
+
+Joseph Guzel  13:18:57
+I think he is. I mean, I would have left the state,
+
+Alicia Keyes  13:19:02
+like, you can't go anywhere without seeing me here. I mean, honestly, like,
+
+Joseph Guzel  13:19:06
+suddenly his water will be off and his electricity and nothing will work, and his taxes will be fine, yeah?
+
+Alicia Keyes  13:19:12
+I mean, luckily, I love them pieces. I think he's just such a good man. He's just not my man. Excellent
+
+Joseph Guzel  13:19:18
+answer, yeah. Well, once you make a zillion dollars on this, you can have whatever you want. But
+
+Alicia Keyes  13:19:25
+I learned, like I learned my you know, we're all just learning, still, I learned my lesson. I
+
+Joseph Guzel  13:19:31
+mean, listen, as long as you've learned, I mean, it's, uh, my, my, my mom still thinks she's in a Richard gear movie sometimes, and I'm always trying to tell her just it's not a Richard Gere movie. This is not pretty
+
+Speaker 1  13:19:44
+woman. You've been married three times worse, three times she's
+
+Joseph Guzel  13:19:47
+more than that, married and divorced, more than that. Yeah, every couple weeks I learn about
+
+Alicia Keyes  13:19:58
+the other thing I'm really enjoying right now, though, is like, I love to couple and I love to take care of people. Like, I'm a mama and this greatest I'm a great cook, like, if you're sick, you want me as they're your nurse. Um, but I'm loving that I'm not taking care of anyone right now.
+
+Joseph Guzel  13:20:13
+But also, but also, yeah, just it's a good thing. It didn't mess with your business. I mean, it's, it's, right? Well, one of the reasons why, even from every set had such a hard time raising was it was a husband, wife team. It is a husband, wife team. So it's, it's, it's like inventors, just like wife's heart. It's hard enough. It's hard enough. And you know, like, it's just everyone passed for that reason. Little did they know that Indians don't get divorced. Oh, you get ostracized from your entire communities, not consensus.
+
+Alicia Keyes  13:20:48
+I've seen about 80% of the companies I incubated with blowout because of co founder issues, sometimes,
+
+Joseph Guzel  13:20:54
+every time. So it's, you're, you're the main equity owner, though, right? Okay, good, good, yeah.
+
+Alicia Keyes  13:21:03
+I brought on advisors at like, point two, five and point five zero, just because I need them to close certain states, because we would need to move fast. We need to close all these states within six
+
+Joseph Guzel  13:21:12
+months. What's that look like to close states?
+
+Alicia Keyes  13:21:15
+A phone call to the governor from myself or my friend Richard or Tom and and we say, hey, we need your help on this. Like, you guys need to get this done, so give us a contract. So
+
+Joseph Guzel  13:21:26
+politics is more McLean's thing growing up in the IMF, right? But like, and yours certainly, World Bank. Yeah, the world it's the World Bank. I would say it's the IMF. The like, does an administration change? Like, if Trump gets in office in November, does that impact your district? Incredibly naive on this stuff. So, yeah, the
+
+Alicia Keyes  13:21:47
+money's already gone out to the states. So that initial tranche of money, even if he gets in, like, they already have to put up their digital infrastructure. Anyway, I don't think he's going to try to take out data. It's just not sexy. He's going to try to take out global accords first,
+
+Joseph Guzel  13:22:01
+and he's going to the efficiencies are then. Then, this makes sense, obviously, right?
+
+Alicia Keyes  13:22:08
+I mean, it's almost data. I'm realizing even my friend, she's the first energy exec, female energy executive in the world. And I said, What can I do for you? And she's like, I don't even know what's going on with our data. Like she's too worried about the energy transition and getting coal out of the way. And she goes, You know what? She goes, instead of using meter maids, we need to get that. Can you do that for us? And it's like, yeah, we can do that for you.
+
+Joseph Guzel  13:22:34
+Well, you can take your energy data. So, so somebody, somebody built, it's kind of an add in for meters, at least in Los Angeles, because you can, it's the like add in was, like, Windows XP, so you could, like, put Windows on any machine, right? Technically, it's Android, right? Like, Android hardware agnostic, relative to iOS. And so it's the same shitty meter in LA, but you can pay with your phone now. Oh, interesting. Interesting, yeah, interesting, which is read, right? So, yeah,
+
+Alicia Keyes  13:23:05
+I think all of these so I've been studying also produced water for the governor, and all these monitoring devices are now out there. We're not, we don't have a device. We're agnostic to which device we use. We're just going to grab your data
+
+Joseph Guzel  13:23:18
+clean. And I did a device we sold to mow, and it was called flow. It was a water filter, right, that you put on your home water filter to track a drop of water, you know, in your like, like, in a pipe within pinpoint accuracy. Shitty business. You don't want a hardware business for the Lubbock. No, no, yeah, it's, it's, it's horrible, unless you're, you know, Google or Apple or some or that stuff. It's just don't do that, the even samsara, like, so if you think about their hardware, the hardware that they use has nothing to do with the site. It's all it's a software business. The reason why they were able to take off in the beginning was that the consensus was that the the sensors would be expensive. The reality was that Moore's Law was moving so quickly that and you didn't need the top of the line sensors. You needed the one from 567, years ago, which are the ones on my family's trucks right now. Or, like, they don't change the sensors, they just pay for the software, right? So,
+
+Alicia Keyes  13:24:26
+Oh, interesting, yeah, yeah. And then you can
+
+Joseph Guzel  13:24:29
+create synthetic data off of that. So what are the contracts look like in the implementation? Yeah.
+
+Alicia Keyes  13:24:34
+So basically, we have the Environment Department lockdown for the state of New Mexico. We are going to not only put some APIs there, but we are still going to create the product to Secretary Kenny, he's in charge of the money for the Environmental Council of States for all 49 other states to get this done. So we're going to create it with him in December, and then we'll be put on like a three year contract, which keeps on going and keeps on going so and then we'll do his dark data, and then we'll start working with the other states. Is
+
+Joseph Guzel  13:25:07
+there any way that gets ripped out because you're coming in from a paper pushing perspective that's a third party service provider. Great. What about how you guys, how does each state have their own state legislation about storing data and how it's stored, what kind of databases, or anything like that? Well, so
+
+Alicia Keyes  13:25:27
+basically, I spent some time with all of the CTOs from the different states, and there's no reg. I don't think there's regulation about how on how they store it, but it could depend on each state. So I would need, I mean, that's a question. If
+
+Joseph Guzel  13:25:42
+the answer is no, then the right answer, it's the same thing that McLean and I've been coaching Hamza with. The value is going to accrue to the nuanced data sets. And if you have all the data, great if you have if you don't. The next answer is, do I control the nuanced data sets that make a good enough experience really freaking good? Because a good enough experience is free, right, right? Exactly. Shocker, yeah, a year ago was different, so you could, you should be setting up your own servers, physically not in the cloud, right? Okay. Otherwise, look at snowflake versus Oracle, right? Now, what's okay? Why is Why is snowflake suddenly shitty? They don't have a my bet, my best friend, best man in my wedding, second best friend behind McLean. But best man in my wedding is CEO of UiPath. Why are they so crappy relative to service now, it's because one of them has a cloud. One doesn't. So any any analytics layers are free, assume, right? So there's gonna, you can't, you're not gonna be able to extract value. Those are that whole market's going to zero unless you own the data set, or the nuanced data set, and no better place to do it than New Mexico to start that's a great place to build servers. Arizona is a good place to build servers. Ironically, I can help you go to market, maybe even better than McLean on this one, my uncle on my mom's side. The reason I was brought to the states. Jacobs dad, yeah, he's the chief Civil and Environmental and water and waste and everything to engineer for the state of Hawaii. Love it, yeah? Love it. That would be yes. He just renewed his contract with whoever this new person you know is so he was, he was the one of the top civil guys for waste management. Built all the landfills and stuff in California out of Bakersfield, president of state guy, and then retired after a lifetime in the government for all of three weeks. Talked a big game about traveling, talked a big game about traveling the world, didn't, and then moved to Hawaii, and, yeah, he's the chief for the whole state, which, that's the big one, you know,
+
+Alicia Keyes  13:28:01
+that's lovely. Yeah, another one of my investors, I think, is going to bring North Carolina. So, like, look, yes, he's a
+
+Joseph Guzel  13:28:10
+waste of time, right? So it's like, get all the other states, and Hawaii's, like, always the most forward thinking one. Well,
+
+Alicia Keyes  13:28:17
+that's interesting. Yeah, exactly like tech forward states are obviously going to move on this faster. And just because James is tech forward here, Mexico's leading, and I know so much
+
+Unknown Speaker  13:28:27
+about it, yeah, James is great.
+
+Alicia Keyes  13:28:29
+So we're raising 1.5 at a $15 million evaluation and and we have 620 to almost half of it done.
+
+Joseph Guzel  13:28:42
+What have you today? Pardon how much capital Have you raised before this? And when you say 15 million valuation, is that actually like a price ground, is this a Delaware C Corp? Is it Nevada C Corp?
+
+Alicia Keyes  13:28:55
+Are you it's a Delaware? Yeah, it's a Delaware C Corp. And so the first person to sign on was also bluey. Do you know Stuart? Also Burke, Gilman, Louie, they were like in the Silicon Valley in the 80s. They were OG and they came on over the weekend for 500 and and then Don came in personally, and orange Dow doubled down. And then we've had really great meetings. We're meeting with Bradley On Monday, his team, and then we did our second meeting with initialized. So we're trying to put a really good team together.
+
+Joseph Guzel  13:29:36
+I think you should just have, you can get all those people, but you should have a good lead, right?
+
+Speaker 1  13:29:47
+Well, it sounds like, I mean, it sounds like it's a note that you're doing, like a convertible note, that you're
+
+Alicia Keyes  13:29:53
+doing safe, yeah, we're just doing a safe agreement. So it
+
+Speaker 1  13:29:57
+sounds like it's, it's coming together, almost like a party round.
+
+Alicia Keyes  13:30:00
+Yes. Well, I think Bradley might lead. And then we have two other investors from different companies that are also really that want to could lead.
+
+Unknown Speaker  13:30:11
+Have you already pitched Bradley?
+
+Alicia Keyes  13:30:14
+I pitched him at the dinner, and he's like, I love it. And then he's got the deck, and he's got his people looking at the deck, and we're meeting with him and his partners on Monday. Bradley, isn't he lovely? Like, just he's lovely, and John loved him, so it's just a good
+
+Joseph Guzel  13:30:31
+guys all over his front lawn, and he takes it for granted. I have to remind him all the time. I'm like, just get this look at this guy. He's one of the best
+
+Speaker 1  13:30:40
+rattling Yeah. I see him like
+
+Joseph Guzel  13:30:44
+days like Cosmo Kramer for him. You know, this guy's built the internet grab them. Can't let that talent get away. Yeah, the so here's some of the things I think you should consider with respect to structurally financing this. It's not about the amount of money that you're raising of the people that you're bringing around. It's about the structure. You got to start treating this like $100 million bill. Million dollar business from day one. Okay, so would you finance a public business without an equity structure? Disney, no. All right, it's it seemed it's expensive and a waste of time and blah, blah, blah, blah, blah, blah, blah, and that you're too early and that you don't have enough revenue yet, but I've never, and McLean has never backed a, you know, multi time founder, regardless of the level of success, that doesn't set the mise en place to start cooking correctly. Just like a good chef, right? You have all your things in the right place. So the problem is with safes is that they're, they're not, they're nothing. And, like, it seems like you're not getting diluted, or it seems like it's cheaper, but you gotta, you gotta focus, like Andy Doyle said, from TPG, the end markets, like, where are you going, not where you're at and, and what's going to happen is you're going to raise more money, you know, and in a couple 100 million of initial checks invested between McLean and I, we've never seen more common board seats manifest out of thin air. Never, never seen it. I'd love to. It'd be interesting if I saw that someday. So like setting up all those controls and giving yourself leverage in a very Hollywood ESC, right? Yeah, is important. It's kind of like packaging, right?
+
+Speaker 1  13:32:41
+Absolutely, yeah, but it sounds like so orangedale Put it in a note, right? A safe, sorry, and everyone else that's kind of around the table is interested in putting in a safe, yeah,
+
+Joseph Guzel  13:32:55
+just convert them into a price round, like, find it, find a lead with for a million bucks, you know, and then roll it all in and, okay, you said you're raising them at A 15 post money cap on three. That's that's reasonable. Yes, set a post money option pool. Do you have employees? Right? Right? How many of those have you given options to? Or like,
+
+Alicia Keyes  13:33:22
+Well, I'm just about to do all of their deals, so I've had them on a role as consultants. I'm going to bring the CTO in, who really brings a patent? And he's the brilliant data scientist from LANL. I was going to give him 20%
+
+Joseph Guzel  13:33:38
+great, but yeah, then definitely do a price round. Because what's going to happen is, if you don't, in a year or six months, you do a price round. Let's say it's 10 million all of this shit needs to be figured out, and you're just not going to like the dilution. You're going to hire to you're going to have hired a bunch of people. You're going to have promising options. Those options aren't set yet because you don't have shares, because you don't have a cap table, because you don't have a foreign A and you blah, blah, blah, blah, blah. You're just writing on this ghost structure. You know, it's kind of not getting married without one of these. No hippie marriages. You need, you need this. You need the structure, right, legally bound. And so this way it's, it's, it ends up saving you on your equity. He's 20% and then set the option pool today, if you have the C Corp set up, you should kind of just do it right now. That's, that's McLean. And I just backed this team out of Denver called cast finance. But the title will change. We're building H R Block from first principles as a franchise. Really interesting. You know, we did what? What do we do between, like, 1.4 on 6.75 post, something like that. These guys had raised a mill and a half already. They put their 500k of their own money each into it. You know what? What saved that cap table construction and allowed us to finance this thing that's running on. Haven's idea is they already had the mise en place. They had a 10% option pool post money. Didn't realize until I was sitting in the chair McClain sitting in right now, modeling the cap table. It made the math work, you know, because by the time this is like a real, real working business, Alicia, you're gonna 25%
+
+Unknown Speaker  13:35:31
+okay, wow, yeah,
+
+Joseph Guzel  13:35:33
+every time, yeah, that's fine. It's great, yeah, 25% of very big numbers, wonderful, right? Yeah. I think Sergey Brin has 10% of alphabet. That's pretty good, right? So, so, it always ends up like that's slightly less than Larry Yes. Like, yeah, Larry has what 11 just because, just they started out equal, the survey sold more. Yeah? Well, he's been married twice, yeah. So, so So, yeah, just, just spare yourself on that and then and then, that way you can give yourself, you know, two common board seats. One preferred. You can do away with things like service requirements the way it would usually look if we were financing this across link or haven if we didn't know you is, you know, two common preferred, one independent with the common seats have a then active for the then active CEO. What does that mean? That's a service requirement, right? So if you're not the CEO and you're not active and we fired you, then you're fired. At least you can start with with a position of leverage here, you know, yeah, yeah. I like that. An Eric chin comes, comes along and hits you with what we would have hit you with a cross link. And the trade offs can look like, don't go to a five person board, remove Haven and then, you know, put cross link in there. Just anything you can do to maintain that kind of control will will just help you, and it's worth a lot more than any of the capital you raise.
+
+Alicia Keyes  13:37:15
+Thank you. I appreciate that. Yeah,
+
+Joseph Guzel  13:37:18
+yeah, the ability to sell some of your shares. By the way, if McClain and I were to Embarcadero at crosslink, we would, we give you a 1% carve out for secondary that's standard and considered generous. That means that you don't have to ask anybody for selling up to 1% of your stake. It's not, oh, it's not much. It should be five or 10, you know. Yeah, I just rolled off my last crosslink board by because of the spin out, I got the short end of the stick and clean got, like one board. I got like 10 while we were starting this business. And then, but roofer, you know, is you're as a CEO, usually the lowest paid person in your company. And it's hard. Life is hard. Yeah, you know, two kids, his wife can't work. He's, they're living in the hate he's, what can you do? Tax and getting taxed as a w2 guy and, but we just sold him. He got 10 million bucks a secondary now he's buying, you know, house in LA, and he didn't have to ask me, or anybody, right? Exactly?
+
+Alicia Keyes  13:38:29
+Yeah, yeah, no, I appreciate that. That's great. What else can I get you guys? Anything on the do you want? I've got documentation. You've got the deck right now,
+
+Joseph Guzel  13:38:42
+what if you have a data room, financial model? I mean, we, we love you, obviously, like, this is the fam, the conversion,
+
+Alicia Keyes  13:38:49
+I will thank you. Thank you. And McLean can talk to you a little bit more about kind of the kind of the conversations we've been having with John and, like, locally in the state, but we definitely, we feel like, Yeah, I'd love to keep it in the fam. Yeah. So
+
+Speaker 1  13:39:02
+you've got, on this round, you're raising 1.5 you think you've got how many people, how much permitted?
+
+Alicia Keyes  13:39:09
+Honestly, I think we're going to go past 1.5 yeah, that's,
+
+Speaker 1  13:39:12
+that was going to be my next question. One on raise more, yeah,
+
+Alicia Keyes  13:39:15
+I think we're going to go past, past 1.5 and so I think if, and here, if Bradley's in, if you guys are in, Stuart's in, I mean, we're already, like, done, done then and then the rest are Navy. And if Bradley leaves, and then I've got two other people that are really like, I don't I want to ask you guys about them at some point. Hold on. One second the car. People just, could you guys have two seconds to hold? Yeah, okay, okay, one sec.
+
+Joseph Guzel  13:39:47
+Did Bradley close this fund? No. Okay. Cool. Whatever you want to do here, I'm down. I'll model it. If you want to lead. I just, it's Alicia. So it's, I don't think we should do 100k here on this one, actually,
+
+Speaker 1  13:40:07
+yeah, we can talk about it. I'm also curious, because Bradley, I don't think they've even done it for his close. So I'm wondering he must be warehousing it.
+
+Joseph Guzel  13:40:17
+Yeah, he's probably self warehousing. Yet he's a billionaire. He's definitely poor guy. He's only got $500 million yeah, poor bastard. It's like, it's like, Jamie Dimon at that thing where he was like, talking about when he went to bank one in Chicago, he's like, he's like, he's like, you know that whole experience, I moved my whole family to Chicago, which he apparently lived in the same building as Tommy Miller. It, yeah, when I taught, when I saw Tommy in Chicago last week and and Tommy was, like, the whole city hates Jamie Dimon. Despise it because he and Jamie hates Chicago. Like, what did he do? It? Just like, it's just like, you know, highbrow New York shit. It's like, ew, Chicago, you know, yeah, but he's like, I only had $58 million he's like, I put my money where my mouth is, and I was broke. I only had $58 million meeting Jamie Dimon, I
+
+Alicia Keyes  13:41:33
+loved we've been talking to initialized. They seem great too. That's, uh,
+
+Joseph Guzel  13:41:37
+that's Alexis ohanians Old fund, isn't it?
+
+Alicia Keyes  13:41:41
+I've been talking to a woman named Zoe, um, who has been
+
+Speaker 1  13:41:46
+fantastic. I think it is, I think it is his old fund.
+
+Joseph Guzel  13:41:49
+So you got to be careful. With initialized Alexis is Armenian, like my wife. Be really careful.
+
+Unknown Speaker  13:41:57
+He's no longer there.
+
+Joseph Guzel  13:41:58
+No, he's Alexis has his own fun now. He's had like, three funds, you know, who? No? Initializes, Gary tan. It was Gary tan and Alexis and then Alexis left. Yeah,
+
+Alicia Keyes  13:42:11
+but they seem great. So do you think Bradley's ready to move and be a lead? McLaren,
+
+Speaker 1  13:42:15
+well, so I don't know. I was actually just talking about that. Get his, get his because he doesn't have a fund yet.
+
+Joseph Guzel  13:42:27
+I think he's probably warehousing the investments himself for now,
+
+Speaker 1  13:42:33
+raising himself, but I don't know if he's done a first close yet, which means I'm not sure if he can invest in the Fund, or if it's coming personally. So figure that out when you chat
+
+Joseph Guzel  13:42:42
+with him. So when you, when you think about, about, like, how much money to raise Alicia, the the advice from this side of the pond is don't think in terms of like, steps and milestones. That's it. It is quite literally a horrible exercise, because McLean and I used to do series A's for a living. We still kind of do, but not really like but we and we can't tell you, gun to our head, what series A milestones have ever been, ever, ever. I had no idea what they are today, what they were when the market was the best, what they were in 2009 and I challenge you to find them like quantitative series, a milestones that are consistent. Go on YouTube. Whatever you can do, if you can find them, I'll buy that car. You just that just pulled up the but series B's, I can tell you exactly what they were every day, every second, because there's always a market for a working business to finance working business with a working n of one. So just focus on that. It the minute you have to start going horizontally, you're fine, right? And so just product market fit is business model. Market product fit so a flywheel to sign these contracts. Don't overthink them. Get into as many places you can, and if you can, if you wake up in the morning and your customers are still there, and your contracts are still there and the team still there, then you your series B, whether that's a million or whether that's 5 million, don't think in terms of like, this gives me 18 months of runway or 24 months of runway. That's horrible. That'll kill you. So it's more just, what do you need to finance this business? And then anything in government's non consensus, like nobody, because every VC has lost money in it. It's kind of like social media content, you know, everybody's lost money in it martech, and so your financing market is going to be hard. That's, that's our life in Haven is, is, is this Sequoia has never done a series a we've ever done, and we have great track records relative to all of our beers, one of the best they do our B's, because it's consensus, right? So, you know, the right people, you have access to capital and stuff, but a lead, a good lead, will will help you there, right? Because you're going to need more than 3 million to get wherever you're going. You're going to need 10, oh, over, yeah, 3030, months, especially
+
+Alicia Keyes  13:45:29
+if we ramp really quickly and we get the state. So it only takes four
+
+Joseph Guzel  13:45:33
+or five years that we back them. In 2020 we bought it out for haven in 2022 they went from zero to 30 million of bookings two months ago.
+
+Unknown Speaker  13:45:41
+Wow, wow.
+
+Joseph Guzel  13:45:44
+Four to five years, right? Every, every time, every time, and $15 million in a pivot, yeah, yeah, right,
+
+Alicia Keyes  13:45:52
+yeah, right. So
+
+Speaker 1  13:45:54
+let me, let me do this, Joe and I can kind of circle up inside. I kind of, I think I told you last time, kind of the two different ways that we think about stuff. So let's see what we will link up internally. We
+
+Joseph Guzel  13:46:09
+can do small checks, like we but and, but if we do anything bigger than, like, 100 paycheck, we need to, like, own we need, like, the price round. We need to, you know, we got to work with
+
+Unknown Speaker  13:46:22
+you. That's why he was kind of talking about
+
+Joseph Guzel  13:46:24
+the price round, yeah, double digit, concentrated ownership. We're going to all those things I talked about with the with the terms and conditions and stuff of a price round and really pretty for you and for your investors. These are all things that are easy, but they should. We're in the business of investing dollars for shares of things, you know, against good founders trying to build things so and you're gonna be able to build the big business, you have all
+
+Alicia Keyes  13:46:55
+the costs. So, yeah, I think that, you know what, we have a need. There's an emergency need for this right now.
+
+Joseph Guzel  13:47:04
+Don't, yeah, for the love of God, that's never done anything for anybody. Just get all the contracts Right, yeah. Like, seriously, before Elon Musk goes in there and takes them all exactly
+
+Alicia Keyes  13:47:19
+like, it's really low hanging fruit right now, and I think we can get the states. And that's not what people are focused on, those big federal contracts, the state contracts. That's where you build the infrastructure. So that's really what I want
+
+Joseph Guzel  13:47:32
+to the reason why I asked you, was there any other third party now is because I was really overthinking things for us on Hamza. Because I'm like, how do you charge for this? You know? And then at the end of the day, an old mentor, colleague, even from, from Intuit trip, Fay, we put them on the board of Hamza. You know, it's like, okay, what are they? What? What's, what are they charging ssnc? Or what's ssnc charging them for sub accounting, for a lightweight wealth management? Oh, it's, you know, 30 mil for three years. Like, why don't we do 15 mil five year contracts, or 20 mil five year contracts, or something like that. Three five is better than three in the enterprise. It's the easiest way to get better net revenue retention, right? And then great. And that's what we did. Yeah, it's repeatable, it's digestible. Charge you half, and then just go sign these all up, because it'll take you a year to implement, six months to implement. Yeah, distribution, distribution, distribution, right,
+
+Alicia Keyes  13:48:37
+right. This has been awesome. Thank you both for the time.
+
+Joseph Guzel  13:48:41
+Call anytime, send us
+
+Alicia Keyes  13:48:46
+pictures. Yeah, I will, I will sitting outside. Okay, yeah,
+
+Unknown Speaker  13:48:50
+okay, Alicia,
+
+Alicia Keyes  13:48:52
+thank you.
+
+
+Transcribed by https://otter.ai
