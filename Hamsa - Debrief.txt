@@ -1,0 +1,125 @@
+Speaker 1  12:47:39
+And they give a teeny bit of cheese to the wealth manager, but not much. So it's a pretty simple pitch. You go to the wealth manager and say, Hey, we're going to give you 70% of the revenue. Matt modeled at 15 basis points, the whole amount that you charge the mutual funds. We model it at eight and a half, just to be conservative, but again, not to get too deep into the math, if you give the you give the asset manager, the wealth manager, 5.6 basis points. So 70% we each takes 1.2 basis points. We make 10 million per wealth manager for doing their civil accounting for mutual funds and money market funds. JP Morgan makes basically that amount at a million dollars, and the wealth manager makes 50 million. And Matt that week, he said, before they had 75 of the top 200 on their platform, they said that SS and C has 400
+
+Joseph Guzel  12:48:35
+pretty big universe. Okay, so this is what, this is the math we were struggling to find. Yeah,
+
+Speaker 1  12:48:40
+so this is the math of the way the business gets really big, even before the AI model. It's in the new jacket, it's in the new model. That's what Rick was, I think when I burn him out,
+
+Joseph Guzel  12:48:55
+dude, that fool was. He was still standing this guy, this guy's a rhino. I had no idea
+
+Speaker 1  12:49:01
+he's I can't believe from Matt saying, What did he
+
+Joseph Guzel  12:49:09
+say? What is Matt's what is Matt's compensation? It must is he did they just, like, comp, this guy. JP, Morgan, like, based on this, because, like, this is ridiculous.
+
+Speaker 1  12:49:21
+No, 1 million shares, he's making those 3.1 million shares valuable, I
+
+Joseph Guzel  12:49:26
+mean, but this is, like, he's, this is way too easy, but that's
+
+Speaker 1  12:49:30
+what he wanted to do anyway. So think about, I'm going into a guy who's really bright, and I'm doing exactly what he wants. And normally, inside a lot of big companies, what they want to do is stupid. But what this guy's been wanting to do forever is he's wanted to kick out. He's been sitting in the seat for 10 years. For 10 years, he's wanted to kick out. Ssnc Number one, yeah, for 10 years. He's wanted to do a second, by the way, even if we can't kick out SS and see for the mutual fund business, let's say for Worst case scenario, we can do, we can still do the money market funds, because ssnc doesn't do it. So the worst case scenario, we can go to those 400 funds and say, Oh, you don't want to do mutual funds right now. You feel loyal old new money market funds, because right now, ssnc doesn't do that. No matter what, you'd have a guaranteed revenue stream. Maybe it's 25 not 50, but it's a killer deal. This
+
+Joseph Guzel  12:50:19
+is insane. So, so wait, how should I talk about this now? Is the way to think about this? Simple
+
+Speaker 1  12:50:25
+way to describe it is, you've got a great basically, step one. So our step one, all right, which is also the killer step for AI. This is why it's so genius, is that we're going to focus on the distribution side of the business for wealth management, not the asset management. So the buy side, they have all the data right? They have both the aggregate, omnibus data and the individual data right. They're the ones basically buying and selling. We have with a retail client, and none of the tier two guys. There's about 400 of them, but there's about 200 that are on size, and JV Morgan wants to go sell them so that they have their very own sub accounting system the same way JP Morgan has their own sub accounting system and the way the business model works, this is the beauty thing. We're not inventing a new business model. We're just actually implementing an existing one. Is wealth managers basically sell sub accounting and in corporate action services to mutual funds. And so what we're doing is we're stepping in and saying, Hey, wealth manager, you shouldn't be having an intermediary do it for you, because you're not big enough. You should do it yourself. And by the way, we'll hand you 70% of the revenues out of the eight basis points. We'll hand you 5.6 and we'll take 1.2 and JP Morgan will take 1.2 just so, you know, Matt modeled at a 15 basis point. He didn't model eight. I got risk with I convinced him to take it down, just in case. You know, there's competitive market pressure that we're not aware of. So it's just simple math. If you multiply 1.2 basis points times $80,010,000,009.6 million right? If you multiply
+
+Joseph Guzel  12:52:00
+and is a way, is a way to think about, is a way to think about that like the bips piece. Is it going to be recurring, or does it fluctuate? Did he say every year? Damn killer
+
+Speaker 1  12:52:11
+business model. That's why the AI is cool. But the reason the Sequoia guys focused on the first one is the first one by itself, is the public company. I mean, AI is like the top of it, because then the second thing this is where the AI gets exciting. Is if you're providing sub accounting, you have the richest data set. Like, if you go back to Matt Harris, Matt Harris says, Nim, right, net interest margin is going to die. I retail banking is not going to be valuable anymore. He said, All the focus has to be on wealth management. In wealth management, it's all about, basically, you know, a driving cost out of the system. But even more excitingly, building revenue products, if you have the most, if you have the data set, if you are the system of record, right, you can build right all sorts of Gen agents that are either providing insights to the mutual funds, selling, providing insights to the brokers about what they should be selling a little partner that, you know, sits side by side with Connor and his family making suggestions. It's a huge opportunity. Actually. What's interesting is, I don't think Brandon
+
+Joseph Guzel  12:53:17
+quite gets he really doesn't. I tried so long he thinks he like I told you all my friends think I'm crazy.
+
+Speaker 1  12:53:24
+Literally, here's the thing, but he said, but maybe the next time you talk to him, because I've talked to him, not twice, is he always says that the number one issue that they get when people complain about them is they're not the system of records. They don't have the cloud. Yeah, so he should understand is, we're building the cloud. We have the data.
+
+Joseph Guzel  12:53:43
+It is, dude, what didn't I tell you, we got to build a cloud. I told you, it's the wait, wait, hold up, dude. I mean, like, it all, it all as long I've been shit like, I didn't think any of this was gonna work. Hold on. I got Cooley calling me on the other line. I got, I got, I got, I got, I got, McLean over here, making my life super interesting. The the question on this, Adam, before I forget, is, and I gotta jump, and I'll call you back with Rick, is the creating the moat and lock in? Can somebody come in through Morgan Stanley, let's say, hypothetically, Vanguard, whatever, through the back door the same way we came in through JP Morgan, offering us as a service, like a competitor, and then unhook their reliance on JP Morgan, therefore a reliance on us. So the strategic question becomes, how do we how do we mitigate that? So do we have to do a two? The two more front? A two front war. I mean, a two, two, yeah, and it's probably useful to
+
+Speaker 1  12:54:38
+have another one. But the key thing is, you sign really long contracts with these guys. And it is. It's not a trivial integration. That's why JP Morgan's not saying you can do 50 a year. He said maybe you can do five,
+
+Joseph Guzel  12:54:49
+still, 50 million bucks a year. But speed matters here. Once
+
+Unknown Speaker  12:54:54
+you're in, it's hard for these guys to pull
+
+Joseph Guzel  12:54:56
+it out. Yeah, well, well, I mean, well, remember, it's a revenue center. It's a revenue center for us and for JP Morgan now, and that's and we're moving fast on it, and that's good, and it's lock in. But the question, and I don't know
+
+Speaker 1  12:55:11
+if they walk away, they don't have any insights, right? You just have raw data, you said yourself, not the data. Money. Hey, we're with our reconciliation module. We're cutting out your costs. But the big thing is, and we've generated this unique vertical mode of data, and you put someone else in, you got to start all over again. That's the big one, right? It means the big idea and the little idea is sort of tie together, because that's ultimately why they wouldn't tear you out, because, Oh, someone else is offering us more revenue, Oh, someone else is offering us more cost. But then we say, Oh, wait, you've had your data being trained for three years. Let's start back at zero, because we're not gonna give you those insights.
+
+Joseph Guzel  12:55:56
+Yeah, it's more. It's more, I guess. I guess so we might you, we're probably saying the same thing, and you're and you're giving me the right answer. My mind is just going to if, if, if this is a revenue center for JP Morgan, and a reality of the universe for a Morgan Stanley, or a Vanguard, or Paula or whatever. Then if so, if, if there was a Hamza killer, right? And they they started fragmenting and attacking the market with 1000 cuts giving point solutions to take us apart or whatever. Can they go in through those and then, is that a net benefit? Is that enough of a benefit for Morgan Stanley, or something like that, to say, Oh, hell yeah, I think
+
+Speaker 1  12:56:38
+it's big enough for a guy like Matt to do, but Right? This is a billion, $2 billion billion dollars
+
+Joseph Guzel  12:56:44
+each. Yeah, yeah, I'm not talking about Matt, I'm talking about lion Polk, right? I'm talking about like, Lion Polk or whatever. Yeah, you see, I'm saying I
+
+Speaker 1  12:56:52
+don't think it's quite big enough for that. That's my point. Is that, you know, it's not quite big enough for them to go after, but it's ginormous bro, and it leads to the second. The other thing is, nobody's really thinking about this market. Like when you talk to my phone, they're so focused on front office. Every bank I've talked to Guzel, they're like, Oh, we never thought of adding a data layer that sits underneath our messaging layer. I talked to dude,
+
+Joseph Guzel  12:57:19
+this changes the game. We literally just, we fucking changed the game. Super
+
+Unknown Speaker  12:57:26
+valuable company. It's unbelievable.
+
+Joseph Guzel  12:57:28
+It's like, it's open AI Rix river. You gotta be a billionaire. Where is he? Dude? Riflic had to drop, by the way, Adam dude McClain is you should the things he tried to do today. He tried to call this kid and tell him, there's no way he can ever work here. Well, he can fucking deal with it. So I already figured out a way that I'm gonna handle this with him. Well, first off, I've handled all the I got. I talked to Dave Young and everything I've given Rick like an offer right now. Thank you for that. Like, that was huge this kid like, you know, and I want him to be around you. And at the end of the day, it's all going to be one thing. Anyways, he's handling it incredibly well. He's excited. He's jumping into the danger. Wow, this kid's this, I think this kid could be the next Vinod Khosla man, and Hamza is his son microsystems. Yeah, I'm so impressed with him. I'm so I'm so disappointed and disgusted with McClain, and I gave him 100% transparency the whole time on everything, and rithwik, like I thought he was going to be a little kind of you seem like a timid this kid is not fucking timid at all. Don't be fooled. I love that, by the way,
+
+Unknown Speaker  12:59:02
+he's the kid who's making
+
+Joseph Guzel  12:59:03
+it. He's, he's gonna fucking survive. He dude. He wanted more McLean. Like, he doesn't care. He's like, I'll win him over. I was like, oh my god, I would not take this job. I was
+
+Speaker 1  12:59:16
+thinking about, like, right now, as much as I'd want to work for you in the plane. If I was there, I'd be like, hey, when you guys did all your differences, give me a
+
+Joseph Guzel  12:59:23
+call. Yeah? I mean, yeah, no. I mean, these kids, it's, he wants action, dude. And this is fucking action to become
+
+Speaker 1  12:59:29
+a VC, right? He may also, he's really bright. He might be like, holy, I've got an opportunity, because they were totally functional.
+
+Joseph Guzel  12:59:40
+That's what I had to do, man, that's what I dude. I was I was working with Bill Campbell and Scott Cook, and then nobody would hire me, and so I had to come to cross cut ventures. Rick and Brian despised me when I showed up. They're like, Brian, first day, he was like, I don't need a fucking associate, and I don't need you. I was like, hi, the funniest story I ever
+
+Speaker 1  13:00:01
+had. Company, what was the name of the VCE, worked at before?
+
+Joseph Guzel  13:00:07
+Oh, my, I heard it was a shit show. Palomar, yeah.
+
+Speaker 1  13:00:11
+Palomar, the woman, walks in and she says, I feel like I forget what the whatever the brain patch like analogy was, but she's like, I'm like, So and so walking in with blood on my head, nice to meet you. Replacement for Brian Garrett, oh, my God. I was like, I'm not sure I wanted you to describe my company's blood on your hands. And she was a letter B, and I don't use that word lightly.
+
+Joseph Guzel  13:00:39
+I am dying. That is so funny. Oh my gosh. Well, I gotta call a coolie right now. I gotta call John from Cooley right now. You probably gotta call Dave. I just chatted with him, but yeah, on this stuff. But yeah, let's talk later.
+
+Speaker 1  13:00:55
+But yeah, the point is, we have the business model, whether it's a clay, does it or not? I don't know.
+
+Joseph Guzel  13:00:59
+Yeah, if you know, I don't really care at this point. I don't really care at this point. I do think we should have a higher valuation, though. So the I think we need to just kind of have rhythmic cut, an exercise of, of what, what do we because what we don't know, and it's super easy to answer now, just, this is just an operational investment man. So it's not like every time that we raise money before, and you know, it's, it's when you're getting out of the idea maze. It's really like, it's a feeling for what we need. You might be actually the only founder that doesn't quite do that. You're you look at purely shots on goal. We're past that. Now you're big company CEO. Now you're running a billion dollar business. It's really worth a billion dollars, Adam, you made, you're worth 200 million bucks, you asshole. See what I did. Yeah. Is that so cool you really dude you really made up for last time, man. You really did it.
+
+Speaker 1  13:01:51
+Well the sunbowsky Guys, pissed me off like I can do it over and over I know how to do it I get help, Christina.
+
+
+Transcribed by https://otter.ai
